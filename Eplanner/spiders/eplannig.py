@@ -1,4 +1,5 @@
 import scrapy
+from selenium import webdriver
 
 
 class EplannigSpider(scrapy.Spider):
@@ -17,4 +18,6 @@ class EplannigSpider(scrapy.Spider):
         yield response.follow(url = url, callback = self.parse_form)
 
     def parse_form(self, response) :
+        data = {
+        }
         pass
