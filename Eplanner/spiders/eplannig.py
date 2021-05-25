@@ -1,6 +1,6 @@
 import scrapy
 from selenium import webdriver
-
+from scrapy.http import FormRequest
 
 class EplannigSpider(scrapy.Spider):
     name = 'eplanning'
@@ -18,6 +18,14 @@ class EplannigSpider(scrapy.Spider):
         yield response.follow(url = url, callback = self.parse_form)
 
     def parse_form(self, response) :
-        data = {
-        }
+        yield FormRequest.from_response(response=response, 
+                                  formdata= {
+                                      'RdoTimeLimit' : '42'
+                                  },
+                                  dont_filter = True,
+                                  formxpath='(//form)[2]',
+                                  callback = self.parse_pages)
+        
+    
+    def parse_pages(self, response) :
         pass
