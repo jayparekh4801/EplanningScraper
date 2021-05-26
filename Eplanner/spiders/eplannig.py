@@ -28,7 +28,8 @@ class EplannigSpider(scrapy.Spider):
         
     
     def parse_pages(self, response) :
-        next_page = response.xpath('//ul[@class = "pagination"]/li[@class = "active"]/following-sibling::li[1]')
+        next_page = response.xpath('//ul[@class = "pagination"]/li[@class = "active"]/following-sibling::li[1]/a/@href').get()
+        next_page = response.urljoin(next_page)
         table = response.xpath('//table')
         rows = table.xpath('.//tr')
 
@@ -48,6 +49,6 @@ class EplannigSpider(scrapy.Spider):
                 "dev_desc" : row.xpath('./td[9]/text()').get(),
                 "lo_auth_name" : row.xpath('./td[10]/text()').get()
             }
-        
-        yield response.follow(url = next_page, callback = self.parse_pages)
-        # yield scrapy.Request(url=next_page, callback=self.parse_pages)
+        # print(next_page)
+        # yield scrapy.Request(next_page, callback = self.parse_pages)
+        yield response.follow(url=next_page, callback=self.parse_pages)
