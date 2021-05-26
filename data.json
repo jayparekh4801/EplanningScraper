@@ -1,0 +1,3733 @@
+[
+    {
+        "link": null,
+        "app_status": null,
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": null,
+        "app_name": null,
+        "dev_add": [],
+        "dev_desc": null,
+        "lo_auth_name": null
+    },
+    {
+        "link": "/OffalyCC/AppFileRefDetails/21208/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "JOHN MOLLEN",
+        "dev_add": [
+            "CORBANE",
+            "FERBANE",
+            "CO. OFFALY",
+            " "
+        ],
+        "dev_desc": "RENOVATION & EXTENSION OF EXISTING DERLICT DWELLING, CONSTRUCTION OF A DOMESTIC GARAGE, INSTALLATION...",
+        "lo_auth_name": "OFFALY CO. CO."
+    },
+    {
+        "link": "/OffalyCC/AppFileRefDetails/21209/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "PATRICK O'CONNOR",
+        "dev_add": [
+            "BOVEEN",
+            "SHARAVOGUE",
+            "BIRR"
+        ],
+        "dev_desc": "CONSTRUCTION OF A SHEEP SHED AND ALL ANCILLARY ASSOCIATED SITE WORKS...",
+        "lo_auth_name": "OFFALY CO. CO."
+    },
+    {
+        "link": "/OffalyCC/AppFileRefDetails/21210/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "IAN & LOUISE GRENNAN",
+        "dev_add": [
+            "LOUGHROE",
+            "RAHAN",
+            "CO. OFFALY",
+            " "
+        ],
+        "dev_desc": "CONSTRUCTION OF A NEW DWELLING HOUSE DOMESTIC GARAGE SEPTIC TANK/ETS PERCOLATION AREA AND ALL ASSOCI...",
+        "lo_auth_name": "OFFALY CO. CO."
+    },
+    {
+        "link": "/OffalyCC/AppFileRefDetails/21211/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "JOHN FLANAGAN DEVELOPMENTS LTD",
+        "dev_add": [
+            "RAHAN ROAD",
+            "SRAH",
+            "TULLAMORE",
+            "CO. OFFALY"
+        ],
+        "dev_desc": "CONSTRUCTION OF A PROPOSED TWO STOREY DWELLING HOUSE, PROPOSED SITE ENTRANCE, BOUNDARY TREATMENT AND...",
+        "lo_auth_name": "OFFALY CO. CO."
+    },
+    {
+        "link": "/OffalyCC/AppFileRefDetails/21212/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "JOHN JOE & EOIN CLEARY",
+        "dev_add": [
+            "GLASSHOUSE",
+            "SHINRONE BIRR",
+            "CO. OFFALY",
+            " "
+        ],
+        "dev_desc": "A SLATTED LIVESTOCK CUBICLE SHED, UNDERGROUND SLURRY STORAGE TANKS AND ALL ANCILLARY ASSOCIATED SITE...",
+        "lo_auth_name": "OFFALY CO. CO."
+    },
+    {
+        "link": "/OffalyCC/AppFileRefDetails/21213/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "BARBARA MURPHY",
+        "dev_add": [
+            "CLONMINCH AVENUE",
+            "TULLAMORE",
+            "CO. OFFALY",
+            " "
+        ],
+        "dev_desc": "CONSTRUCTION OF A TWO STOREY DWELLING WITH A NEW ENTRANCE AND ALL ASSOCIATED SITE WORKS...",
+        "lo_auth_name": "OFFALY CO. CO."
+    },
+    {
+        "link": "/OffalyCC/AppFileRefDetails/21214/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "JOE & MICHELE FALLON",
+        "dev_add": [
+            "GORTEEN",
+            "TUBBER",
+            "CO. OFFALY"
+        ],
+        "dev_desc": "A NEW DWELLING, GATED ENTRANCE, GARAGE; PROPRIETARY TREATMENT SYSTEM WITH DISCHARGE TO A PACKAGED TE...",
+        "lo_auth_name": "OFFALY CO. CO."
+    },
+    {
+        "link": "/OffalyCC/AppFileRefDetails/21215/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "HIGHFIELD VETERINARY UNLIMITED COMPANY",
+        "dev_add": [
+            "UNIT 5, MANGAN'S, DUBLIN ROAD",
+            "EDENDERRY ",
+            "CO. OFFALY",
+            " "
+        ],
+        "dev_desc": "CHANGE OF USE OF AN EXISTING COMMERCIAL UNIT TO A VETERINARY CLINIC AND RETAIL SPACE, INCLUDING X-RA...",
+        "lo_auth_name": "OFFALY CO. CO."
+    },
+    {
+        "link": "/OffalyCC/AppFileRefDetails/21216/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "GARRETT CONNOLLY & NICOLA CONNOLLY",
+        "dev_add": [
+            "MAIN STREET",
+            "DAINGEAN",
+            "CO. OFFALY",
+            " "
+        ],
+        "dev_desc": "(A) 1 NO. NEW TWO STOREY EXTENSION TO THE REAR OF EXISTING DWELLING HOUSE, THE DEVELOPMENT IS TO A P...",
+        "lo_auth_name": "OFFALY CO. CO."
+    },
+    {
+        "link": "/OffalyCC/AppFileRefDetails/21217/0",
+        "app_status": "INCOMPLETED APPLICATION",
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "WILLIAM GRANT AND SONS IRISH MANUFACTURING LTD",
+        "dev_add": [
+            "TULLAMORE DISTILLERY",
+            "BALLARD & CLONMINCH",
+            "CO. OFFALY",
+            " "
+        ],
+        "dev_desc": "CHANGE OF USE OF EXISTING THREE STOREY THREE SISTERS ADMINISTRATION BUILDING (441.5m2) INTO A VISITO...",
+        "lo_auth_name": "OFFALY CO. CO."
+    },
+    {
+        "link": null,
+        "app_status": null,
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": null,
+        "app_name": null,
+        "dev_add": [],
+        "dev_desc": null,
+        "lo_auth_name": null
+    },
+    {
+        "link": "/CarlowCC/AppFileRefDetails/21127/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Patrick Foley",
+        "dev_add": [
+            "Aghabeg",
+            "Corries",
+            "Muine Bheag",
+            "Co. Carlow"
+        ],
+        "dev_desc": "for a single storey extension to an existing dwelling, internal & external alterations, (2 No. new w...",
+        "lo_auth_name": "Carlow Co. Council"
+    },
+    {
+        "link": "/CarlowCC/AppFileRefDetails/21128/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Declan O'Brien",
+        "dev_add": [
+            "Lismaconly",
+            "Myshall",
+            "Co. Carlow",
+            " "
+        ],
+        "dev_desc": "for the construction of a single storey house and domestic garage with new entrance, new wastewater ...",
+        "lo_auth_name": "Carlow Co. Council"
+    },
+    {
+        "link": null,
+        "app_status": null,
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": null,
+        "app_name": null,
+        "dev_add": [],
+        "dev_desc": null,
+        "lo_auth_name": null
+    },
+    {
+        "link": "/DonegalCC/AppFileRefDetails/2150655/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "FRANCIS MARLEY ON BEHALF OF MARLEY FUNERAL DIRECTORS",
+        "dev_add": [
+            "BALLYBOFEY",
+            "CO DONEGAL",
+            " ",
+            " "
+        ],
+        "dev_desc": "CONSTRUCTION OF A SINGLE STOREY FUNERAL HOME TO INCLUDE CHAPEL OF REST, OFFICE SPACE AND ANCILLARY A...",
+        "lo_auth_name": "DONEGAL CO.CO."
+    },
+    {
+        "link": "/DonegalCC/AppFileRefDetails/2150656/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "MARY LOUGHREY",
+        "dev_add": [
+            "NARAN",
+            "PORTNOO",
+            "CO DONEGAL",
+            " "
+        ],
+        "dev_desc": "CONSTRUCTION OF ONE OFF DWELLING WITH A SHARED ACCESS ROAD AND TREATMENT PLANT INCLUDING ALL ASSOICA...",
+        "lo_auth_name": "DONEGAL CO.CO."
+    },
+    {
+        "link": null,
+        "app_status": null,
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": null,
+        "app_name": null,
+        "dev_add": [],
+        "dev_desc": null,
+        "lo_auth_name": null
+    },
+    {
+        "link": "/KerryCC/AppFileRefDetails/1691010/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "13/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "19/04/2021",
+        "app_name": "NIALL DONOGHUE",
+        "dev_add": [
+            "SHRONABOY",
+            "GLENFLESK",
+            "CO KERRY"
+        ],
+        "dev_desc": "CONSTRUCT A DWELLING HOUSE C/W SEPTIC TANK AND BORD NA MONA PURAFLO MODULES...",
+        "lo_auth_name": "KERRY CO.CO."
+    },
+    {
+        "link": "/KerryCC/AppFileRefDetails/169290/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "30/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "06/05/2021",
+        "app_name": "EILEEN MEMERY",
+        "dev_add": [
+            "OLD ROAD",
+            "CAHERCIVEEN",
+            "CO KERRY",
+            " "
+        ],
+        "dev_desc": "CONSTRUCT A DWELLING HOUSE...",
+        "lo_auth_name": "KERRY CO.CO."
+    },
+    {
+        "link": null,
+        "app_status": null,
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": null,
+        "app_name": null,
+        "dev_add": [],
+        "dev_desc": null,
+        "lo_auth_name": null
+    },
+    {
+        "link": "/CavanCC/AppFileRefDetails/21194/0",
+        "app_status": "DECISION MADE",
+        "due_date": "08/06/2021",
+        "date": "19/05/2021",
+        "decidsion_code": "CONDITIONAL",
+        "received_date": "14/04/2021",
+        "app_name": "Joe O'Connor",
+        "dev_add": [
+            "Corratober",
+            "Cavan",
+            "Co. Cavan"
+        ],
+        "dev_desc": "to retain existing single storey extension to side of existing dwelling and all associated works...",
+        "lo_auth_name": "CAVAN CO.CO."
+    },
+    {
+        "link": "/CavanCC/AppFileRefDetails/21211/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Darren Doughty",
+        "dev_add": [
+            "Crossbane",
+            "Mullagh",
+            "Co Cavan"
+        ],
+        "dev_desc": "to construct a single storey dwelling, detached domestic garage, install proprietary sewage treatmen...",
+        "lo_auth_name": "CAVAN CO.CO."
+    },
+    {
+        "link": "/CavanCC/AppFileRefDetails/21212/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Chris Corrie & Lisa Hopkins",
+        "dev_add": [
+            "Drumeague",
+            "Bailieborough",
+            "Co Cavan"
+        ],
+        "dev_desc": "a two storey style dwelling, domestic garage, waste water treatment system and percolation area, upg...",
+        "lo_auth_name": "CAVAN CO.CO."
+    },
+    {
+        "link": "/CarlowCC/AppFileRefDetails/21129/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "10/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "16/04/2021",
+        "app_name": "Patrick Walsh",
+        "dev_add": [
+            "Ballynagrane",
+            "Borris",
+            "Co. Carlow",
+            " "
+        ],
+        "dev_desc": "Permission for the erection of a dwelling house with treatment system and percolation area and all a...",
+        "lo_auth_name": "Carlow Co. Council"
+    },
+    {
+        "link": "/CarlowCC/AppFileRefDetails/21130/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "10/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "16/04/2021",
+        "app_name": "Bagenalstown Family Resource Centre",
+        "dev_add": [
+            "Gleann na Bearu",
+            "Royal Oak Road",
+            "Bagenalstown",
+            "Co. Carlow"
+        ],
+        "dev_desc": "Retention permission for unauthorised works to include the construction of a concrete slab to be use...",
+        "lo_auth_name": "Carlow Co. Council"
+    },
+    {
+        "link": "/CarlowCC/AppFileRefDetails/21131/0",
+        "app_status": "INCOMPLETED APPLICATION",
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "19/04/2021",
+        "app_name": "Drive Service Stations Ltd.",
+        "dev_add": [
+            "Coneykeare & Ballyknockan",
+            "Leighlinbridge",
+            " Co. Carlow",
+            " "
+        ],
+        "dev_desc": "for alterations/extension to existing retail shop at ground floor level.  Demolition of 1 No. existi...",
+        "lo_auth_name": "Carlow Co. Council"
+    },
+    {
+        "link": "/CarlowCC/AppFileRefDetails/21132/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "13/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "19/04/2021",
+        "app_name": "Margaret Morrissey",
+        "dev_add": [
+            "Moanalow",
+            "Grangeford",
+            "Co. Carlow"
+        ],
+        "dev_desc": "a single storied dwelling, garage, new entrance/driveway, effluent disposal system to comply with cu...",
+        "lo_auth_name": "Carlow Co. Council"
+    },
+    {
+        "link": null,
+        "app_status": null,
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": null,
+        "app_name": null,
+        "dev_add": [],
+        "dev_desc": null,
+        "lo_auth_name": null
+    },
+    {
+        "link": "/SligoCC/AppFileRefDetails/21128/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Tommy & Christina  Canny",
+        "dev_add": [
+            "Carrowhubbuck South",
+            "Enniscrone",
+            "Co. Sligo",
+            " "
+        ],
+        "dev_desc": "development consisting of the construction of a dwelling house and ancillary works, and make connect...",
+        "lo_auth_name": "Sligo Co. Co."
+    },
+    {
+        "link": "/SligoCC/AppFileRefDetails/21129/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Adrian Gilmartin",
+        "dev_add": [
+            "Mullaghnabreena",
+            "Collooney",
+            "Co. Sligo",
+            " "
+        ],
+        "dev_desc": "Development consisting of changes to the access road, to the layout of the site road that was grante...",
+        "lo_auth_name": "Sligo Co. Co."
+    },
+    {
+        "link": "/SligoCC/AppFileRefDetails/21130/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "John Currid",
+        "dev_add": [
+            "Liggan",
+            "Ballinful",
+            "Co. Sligo",
+            "F91 N602"
+        ],
+        "dev_desc": "Demolition of existing single storey extension to the rear of my dwelling plus alterations, extensi...",
+        "lo_auth_name": "Sligo Co. Co."
+    },
+    {
+        "link": "/DonegalCC/AppFileRefDetails/2150657/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "OISIN WALSH",
+        "dev_add": [
+            "GLENINEENY",
+            "GLEN",
+            "CO DONEGAL",
+            " "
+        ],
+        "dev_desc": "CONSTRUCTION OF A DWELLING WITH ON SITE SEWAGE TREATMENT...",
+        "lo_auth_name": "DONEGAL CO.CO."
+    },
+    {
+        "link": "/DonegalCC/AppFileRefDetails/2150658/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "ANN JACOB",
+        "dev_add": [
+            "NARAN ",
+            "PORTNOO",
+            "CO DONEGAL",
+            " "
+        ],
+        "dev_desc": "CONSTRUCTION OF ONE OF DWELLING WITH SHARED ACCESS ROAD AND TREATMENT PLANT INCLUDING ALL ASSOCIATED...",
+        "lo_auth_name": "DONEGAL CO.CO."
+    },
+    {
+        "link": "/DonegalCC/AppFileRefDetails/2150659/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "ANNE CAMPBELL",
+        "dev_add": [
+            "RAMELTON",
+            "CO DONEGAL",
+            " ",
+            " "
+        ],
+        "dev_desc": "INSTALLATION OF A DOMESTIC WASTEWATER TREATMENT SYSTEM AND ASSOCIATED UNDERGROUND PERCOLATION BED TO...",
+        "lo_auth_name": "DONEGAL CO.CO."
+    },
+    {
+        "link": "/DonegalCC/AppFileRefDetails/2150660/0",
+        "app_status": "INCOMPLETED APPLICATION",
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "JOHN MCGONAGLE",
+        "dev_add": [
+            "KNOCKAMANY",
+            "MALIN",
+            "CO DONEGAL",
+            " "
+        ],
+        "dev_desc": "RETENTION AND COMPLETION OF TIMBER AND STEEL FRAMED SHELTERS, PORTABLE TOILETS, STONE BENCHES, PICNI...",
+        "lo_auth_name": "DONEGAL CO.CO."
+    },
+    {
+        "link": "/DonegalCC/AppFileRefDetails/2150661/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "SHANE & NOELLE MCGEEHAN",
+        "dev_add": [
+            "MEENAMALRAGH",
+            "GLENTIES",
+            "CO DONEGAL",
+            " "
+        ],
+        "dev_desc": "RELOCATION OF A DWELLING AND WASTEWATER SYSTEM PREVIOUSLY GRANTED PLANNING PERMISSION REF 20/51327...",
+        "lo_auth_name": "DONEGAL CO.CO."
+    },
+    {
+        "link": "/KerryCC/AppFileRefDetails/21384/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "JOE BARRY",
+        "dev_add": [
+            "COARHAMORE",
+            "VALENTIA ISLAND",
+            "CO KERRY"
+        ],
+        "dev_desc": "RETAIN DWELLING (PL. REF 05-982) WITHIN REVISED BOUNDARIES...",
+        "lo_auth_name": "KERRY CO.CO."
+    },
+    {
+        "link": "/KerryCC/AppFileRefDetails/21385/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "GARY AND SUE RUSSELL",
+        "dev_add": [
+            "KEALARIDDIG",
+            "SNEEM",
+            "CO KERRY",
+            " "
+        ],
+        "dev_desc": "(A)RETAIN DWELLING HOUSE V93 KC67 AS CONSTRUCTED (B) RETAIN A CHANGE OF USE OF EXISTING HOUSE (BRIDG...",
+        "lo_auth_name": "KERRY CO.CO."
+    },
+    {
+        "link": "/KerryCC/AppFileRefDetails/21386/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "MICHAEL COLLINS",
+        "dev_add": [
+            "DROMALIVAUN",
+            "BALLYLONGFORD",
+            "LISTOWEL",
+            "CO KERRY"
+        ],
+        "dev_desc": "CONSTRUCT AN EASY FEED CATTLE SHED FOR OVER WINTERING COWS INCLUDING ALL ASSOCIATED CONCRETE AND SIT...",
+        "lo_auth_name": "KERRY CO.CO."
+    },
+    {
+        "link": "/KerryCC/AppFileRefDetails/21387/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "JEROME GRIFFIN (C/O KERRY STORES LTD )",
+        "dev_add": [
+            "TULLIG BEG",
+            "KILLORGLIN",
+            "CO KERRY",
+            " "
+        ],
+        "dev_desc": "(A) RETAIN A SECTION OF THE EXISTING BUILDING. (B) PLANNING PERMISSION TO CHANGE PART OF USE OF PART...",
+        "lo_auth_name": "KERRY CO.CO."
+    },
+    {
+        "link": "/CavanCC/AppFileRefDetails/21213/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Buffdale Ltd.",
+        "dev_add": [
+            "Rocklands",
+            "Drumalee",
+            "Co. Cavan",
+            " "
+        ],
+        "dev_desc": "to erect 8 No. fully serviced dwellings as follows: 2 No. 2 bed semi-detached bungalows, 4 No. 4 bed...",
+        "lo_auth_name": "CAVAN CO.CO."
+    },
+    {
+        "link": "/CavanCC/AppFileRefDetails/21214/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Glen Heery",
+        "dev_add": [
+            "Tullynaskeagh",
+            "Bailieborough",
+            "Co. Cavan"
+        ],
+        "dev_desc": "to construct a part dormer/ part storey and a half style dwelling, install propriety sewage treatmen...",
+        "lo_auth_name": "CAVAN CO.CO."
+    },
+    {
+        "link": "/CavanCC/AppFileRefDetails/21215/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Tomas & Deirdre Halton",
+        "dev_add": [
+            "Lackan Upper",
+            "Ballinagh",
+            "Co Cavan"
+        ],
+        "dev_desc": "to erect fully serviced two storey dwelling with detached domestic garage, entrance, sewerage treatm...",
+        "lo_auth_name": "CAVAN CO.CO."
+    },
+    {
+        "link": "/CavanCC/AppFileRefDetails/21216/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Robin Love",
+        "dev_add": [
+            "Tievenaman",
+            "Termon, Virginia",
+            "Co. Cavan"
+        ],
+        "dev_desc": "for development consisting of an agricultural machinery storage shed together with all ancillary sit...",
+        "lo_auth_name": "CAVAN CO.CO."
+    },
+    {
+        "link": "/CavanCC/AppFileRefDetails/21217/0",
+        "app_status": "DECISION MADE",
+        "due_date": "08/06/2021",
+        "date": "19/05/2021",
+        "decidsion_code": "CONDITIONAL",
+        "received_date": "14/04/2021",
+        "app_name": "Pauric McGuigan",
+        "dev_add": [
+            "Ardue",
+            "Ballyconnell",
+            "Co. Cavan"
+        ],
+        "dev_desc": "to erect single storey extension to side of existing dwelling, alterations to elevations & all ancil...",
+        "lo_auth_name": "CAVAN CO.CO."
+    },
+    {
+        "link": "/CarlowCC/AppFileRefDetails/21133/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "10/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "16/04/2021",
+        "app_name": "James White & Karen Condron",
+        "dev_add": [
+            "Kilknock",
+            "Ballon",
+            "Co. Carlow"
+        ],
+        "dev_desc": "the construction of a single storey dwelling, use of an existing mechanical aeration unit and percol...",
+        "lo_auth_name": "Carlow Co. Council"
+    },
+    {
+        "link": "/CarlowCC/AppFileRefDetails/21134/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "15/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "21/04/2021",
+        "app_name": "Darragh & Bernadette Ware",
+        "dev_add": [
+            "92 Woodbrook Avenue",
+            "Rathnapish",
+            "Carlow",
+            " "
+        ],
+        "dev_desc": "a new single storey extension to side of existing house and all ancillary site works...",
+        "lo_auth_name": "Carlow Co. Council"
+    },
+    {
+        "link": "/CarlowCC/AppFileRefDetails/21135/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "10/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "16/04/2021",
+        "app_name": "Jonathan Stringer",
+        "dev_add": [
+            "Knockdrumagh",
+            "Myshall",
+            "Co. Carlow"
+        ],
+        "dev_desc": "permission for the demolition of an existing domestic shed and the construction of a new single stor...",
+        "lo_auth_name": "Carlow Co. Council"
+    },
+    {
+        "link": "/CarlowCC/AppFileRefDetails/21136/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "15/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "21/04/2021",
+        "app_name": "Martin & Gemma Purcell",
+        "dev_add": [
+            "Lacken",
+            "Old Leighlin",
+            "Co. Carlow",
+            " "
+        ],
+        "dev_desc": "Permission for alteration to design of existing granted dwelling, planning ref. no. 171 (The constru...",
+        "lo_auth_name": "Carlow Co. Council"
+    },
+    {
+        "link": "/SligoCC/AppFileRefDetails/21131/0",
+        "app_status": "WITHDRAWN",
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "V. Rev Patrick J Holleran PP on behalf of Killoran/Coolaney",
+        "dev_add": [
+            "Carrownacleigha",
+            "Coolaney",
+            "Sligo",
+            " "
+        ],
+        "dev_desc": "development consisting of the construction of a new car park and set down area, front boundary wall,...",
+        "lo_auth_name": "Sligo Co. Co."
+    },
+    {
+        "link": "/SligoCC/AppFileRefDetails/21132/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Teeling Veterinary Clinic LTD",
+        "dev_add": [
+            "Unit 9E North West Business Park",
+            "Rathrippin",
+            "Collooney",
+            "County Sligo"
+        ],
+        "dev_desc": "development consisting of (1) retain the subdivision of the existing unit (2) retain the change of u...",
+        "lo_auth_name": "Sligo Co. Co."
+    },
+    {
+        "link": "/SligoCC/AppFileRefDetails/21133/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "10/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "16/04/2021",
+        "app_name": "Steven Taylor",
+        "dev_add": [
+            "Mullaghnaneane",
+            "Grange",
+            "Co. Sligo"
+        ],
+        "dev_desc": "development consisting of the retention of previous developments at my property.  The developments t...",
+        "lo_auth_name": "Sligo Co. Co."
+    },
+    {
+        "link": "/SligoCC/AppFileRefDetails/21134/0",
+        "app_status": "INCOMPLETED APPLICATION",
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "19/04/2021",
+        "app_name": "Florian Menzel, Felix Schimke & Beatrix Hoecker",
+        "dev_add": [
+            "3 John F Kennedy Parade",
+            "Sligo",
+            "Co. Sligo",
+            " "
+        ],
+        "dev_desc": "development consisting of the development of an existing house.  The development consists of the cha...",
+        "lo_auth_name": "Sligo Co. Co."
+    },
+    {
+        "link": "/SligoCC/AppFileRefDetails/21135/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "13/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "19/04/2021",
+        "app_name": "Brigid Kelly",
+        "dev_add": [
+            "Cartronkillerdo",
+            "Cliffoney",
+            "Co. Sligo"
+        ],
+        "dev_desc": "development consisting of (1) to demolish 2 no. existing derelict buildings (2) construction of a t...",
+        "lo_auth_name": "Sligo Co. Co."
+    },
+    {
+        "link": "/DonegalCC/AppFileRefDetails/2150662/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "ANN BYRNE",
+        "dev_add": [
+            "ROSHIN",
+            "DUNFANAGHY",
+            "CO DONEGAL",
+            " "
+        ],
+        "dev_desc": "CONSTRUCTION OF A NEW DWELLING HOUSE, DOMESTIC SHED, INSTALL WASTEWATER TREATMENT SYSTEM AND ASSOCIA...",
+        "lo_auth_name": "DONEGAL CO.CO."
+    },
+    {
+        "link": "/DonegalCC/AppFileRefDetails/2150663/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "LISA BAMFORTH",
+        "dev_add": [
+            "ROSEPENNA",
+            "DOWNINGS",
+            "CO DONEGAL",
+            " "
+        ],
+        "dev_desc": "DEMOLITION OF EXISTING PORCH AND CONSTRUCTION OF AN EXTENSION TO EXISTING DWELLING HOUSE...",
+        "lo_auth_name": "DONEGAL CO.CO."
+    },
+    {
+        "link": "/DonegalCC/AppFileRefDetails/2150664/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "JOHN & BEVERLY BLACKBURN",
+        "dev_add": [
+            "BLAIRSTOWN",
+            "CASTLEFINN",
+            "CO DONEGAL",
+            " "
+        ],
+        "dev_desc": "CONSTRUCTION OF EXTENSION TO THE FRONT, SIDE AND REAR OF EXISTING DWELLING HOUSE AND ASSOCAITED SITE...",
+        "lo_auth_name": "DONEGAL CO.CO."
+    },
+    {
+        "link": "/KerryCC/AppFileRefDetails/21388/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "SEAN AND TARA O DOWD",
+        "dev_add": [
+            "KNOCKAVROGREEN",
+            "DINGLE",
+            "CO KERRY"
+        ],
+        "dev_desc": "CONSTRUCT A DWELLING HOUSE SERVED BY A SEPTIC TANK AND PERCOLATION AREA WITH ALL ASSOCIATED SERVICES...",
+        "lo_auth_name": "KERRY CO.CO."
+    },
+    {
+        "link": "/KerryCC/AppFileRefDetails/21389/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "PATRICK AND JULIETTE DENNEHY",
+        "dev_add": [
+            "GORTNABOUL",
+            "KILGARVAN",
+            "CO KERRY"
+        ],
+        "dev_desc": "CONSTRUCT A NEW DWELLING HOUSE AND GARAGE WITH CONNECTION TO THE PUBLIC SEWER AND ALL ASSOCIATED SIT...",
+        "lo_auth_name": "KERRY CO.CO."
+    },
+    {
+        "link": "/KerryCC/AppFileRefDetails/21390/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "LISA O CONNOR",
+        "dev_add": [
+            "GLEBE",
+            "KILCUMMIN",
+            "KILLARNEY",
+            "CO KERRY"
+        ],
+        "dev_desc": "CONSTRUCT A ONE AND A HALF STOREY DWELLING SERVICED BY A MECHANICAL AERATION UNIT AND POLISHING FILT...",
+        "lo_auth_name": "KERRY CO.CO."
+    },
+    {
+        "link": "/KerryCC/AppFileRefDetails/21391/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "LAURA GRIFFIN",
+        "dev_add": [
+            "SACKVILLE",
+            "ARDFERT",
+            "CO KERRY"
+        ],
+        "dev_desc": "CONSTRUCT A DWELLING HOUSE WITH MECHANICAL TREATMENT UNIT AND POLISHING FILTER AND ALL ASSOCIATED WO...",
+        "lo_auth_name": "KERRY CO.CO."
+    },
+    {
+        "link": "/CavanCC/AppFileRefDetails/21218/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Cavan County Enterprise Fund",
+        "dev_add": [
+            "Cootehill Technology Park",
+            "Station Road, Drumaveil North",
+            "Cootehill, Co. Cavan"
+        ],
+        "dev_desc": "for a development consisting of the demolition of an existing dwelling house and the construction of...",
+        "lo_auth_name": "CAVAN CO.CO."
+    },
+    {
+        "link": "/CavanCC/AppFileRefDetails/21219/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "13/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "19/04/2021",
+        "app_name": "The Legal Representatives of Oliver Rogers",
+        "dev_add": [
+            "Dunaree",
+            "Kingscourt",
+            "Co. Cavan"
+        ],
+        "dev_desc": "to retain single storey detached garage/out buildings to rear of existing single storey detached dwe...",
+        "lo_auth_name": "CAVAN CO.CO."
+    },
+    {
+        "link": null,
+        "app_status": null,
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": null,
+        "app_name": null,
+        "dev_add": [],
+        "dev_desc": null,
+        "lo_auth_name": null
+    },
+    {
+        "link": "/TipperaryCC/AppFileRefDetails/21492/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Board of Management, Scoil Mochaomh\u00f3g Naofa NS",
+        "dev_add": [
+            "Borris",
+            "Two Mile Borris",
+            "Thurles, Co. Tipperary"
+        ],
+        "dev_desc": "a) construction of a new single storey prefabricated portacabin classroom structure complete with ra...",
+        "lo_auth_name": "Tipperary County Council"
+    },
+    {
+        "link": "/TipperaryCC/AppFileRefDetails/21493/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Connie Ryan",
+        "dev_add": [
+            "Coohaun",
+            "Killoskehan",
+            "Borrisoleigh, Co. Tipperary"
+        ],
+        "dev_desc": "construction of livestock underpass and effluent holding tank and all associated site works...",
+        "lo_auth_name": "Tipperary County Council"
+    },
+    {
+        "link": null,
+        "app_status": null,
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": null,
+        "app_name": null,
+        "dev_add": [],
+        "dev_desc": null,
+        "lo_auth_name": null
+    },
+    {
+        "link": "/SligoCC/AppFileRefDetails/21136/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "14/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "20/04/2021",
+        "app_name": "Noel & Ruth Davis",
+        "dev_add": [
+            "Tullaghan",
+            "Coolaney",
+            "Co. Sligo"
+        ],
+        "dev_desc": "development consisting of the construction of an extension of 39 square meters to existing Dwelling ...",
+        "lo_auth_name": "Sligo Co. Co."
+    },
+    {
+        "link": "/SligoCC/AppFileRefDetails/21137/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "15/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "21/04/2021",
+        "app_name": "Seamus O'Connell",
+        "dev_add": [
+            "Annaghbeg",
+            "Collooney",
+            "Co. Sligo"
+        ],
+        "dev_desc": "development consisting of the construction of a single storey type domestic dwelling with livable ac...",
+        "lo_auth_name": "Sligo Co. Co."
+    },
+    {
+        "link": "/TipperaryCC/AppFileRefDetails/21494/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "TM More Healthcare Ltd.",
+        "dev_add": [
+            "The Maltings",
+            "Malt Vale/Ayr Hill",
+            "Parkmore, Roscrea, Co. Tipperary",
+            " "
+        ],
+        "dev_desc": "works to an existing protected structure ref. no. RC099 with minor alterations to previously approve...",
+        "lo_auth_name": "Tipperary County Council"
+    },
+    {
+        "link": "/TipperaryCC/AppFileRefDetails/21495/0",
+        "app_status": "INCOMPLETED APPLICATION",
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Seanan McDonnell",
+        "dev_add": [
+            "Carrigatoher",
+            "Nenagh",
+            "Co. Tipperary",
+            " "
+        ],
+        "dev_desc": "erection of dwelling house, garage, entrance, driveway, install an effluent treatment system and per...",
+        "lo_auth_name": "Tipperary County Council"
+    },
+    {
+        "link": "/TipperaryCC/AppFileRefDetails/21496/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Josephine Coughlan",
+        "dev_add": [
+            "Rathnaleen North",
+            "Nenagh",
+            "Co. Tipperary",
+            " "
+        ],
+        "dev_desc": "(a) modifications and alterations to previously approved planning permission ref : 512065, consistin...",
+        "lo_auth_name": "Tipperary County Council"
+    },
+    {
+        "link": "/MonaghanCC/AppFileRefDetails/21191/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "V&W Recycling",
+        "dev_add": [
+            "Drummond Otra",
+            "Dundalk Road",
+            "Carrickmacross",
+            "Co. Monaghan"
+        ],
+        "dev_desc": "Permission to consist of (i) Change of use of existing building to a storage and distribution wareho...",
+        "lo_auth_name": "Monaghan Co.Co."
+    },
+    {
+        "link": "/MonaghanCC/AppFileRefDetails/21192/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "A. O'Gorman Company Ltd",
+        "dev_add": [
+            "Market Square Shopping Centre",
+            "Drummond Etra",
+            "Carrickmacross",
+            "Co. Monaghan"
+        ],
+        "dev_desc": "Installation of photovoltaic solar panels on the roofs of existing building and associated works. ...",
+        "lo_auth_name": "Monaghan Co.Co."
+    },
+    {
+        "link": "/MonaghanCC/AppFileRefDetails/21193/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Eugene McCooey",
+        "dev_add": [
+            "Gorteens",
+            "Castleblayney",
+            "Co. Monaghan"
+        ],
+        "dev_desc": "Permission to construct a two storey dwelling house, domestic garage, wastewater treatment system an...",
+        "lo_auth_name": "Monaghan Co.Co."
+    },
+    {
+        "link": null,
+        "app_status": null,
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": null,
+        "app_name": null,
+        "dev_add": [],
+        "dev_desc": null,
+        "lo_auth_name": null
+    },
+    {
+        "link": "/RoscommonCC/AppFileRefDetails/21185/0",
+        "app_status": "INCOMPLETED APPLICATION",
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Catriona Power",
+        "dev_add": [
+            "Rose Cottage",
+            "Hodson Bay",
+            "Athlone",
+            "Co Roscommon"
+        ],
+        "dev_desc": "for development consisting of the following:  Retention of a single storey extension to the south el...",
+        "lo_auth_name": "Roscommon Co.Co."
+    },
+    {
+        "link": null,
+        "app_status": null,
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": null,
+        "app_name": null,
+        "dev_add": [],
+        "dev_desc": null,
+        "lo_auth_name": null
+    },
+    {
+        "link": "/MeathCC/AppFileRefDetails/21676/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "James Fox",
+        "dev_add": [
+            "New Lane",
+            "Abbeylands",
+            "Navan, Co. Meath "
+        ],
+        "dev_desc": "the following: \u2022 Extension to the existing funeral home: \u2022 Construction of a garage:\r\n\u2022 Change of us...",
+        "lo_auth_name": "Meath Co. Co."
+    },
+    {
+        "link": "/MeathCC/AppFileRefDetails/21677/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "MSD International GmbH t/a MSD Ireland(Dunboyne Biologics)",
+        "dev_add": [
+            "Piercetown, Cradockstown & ",
+            "Ballymagillin Townlands",
+            "Dunboyne",
+            "Co. Meath"
+        ],
+        "dev_desc": "extensions to and modifications of the existing planning permission Ref RA170887. The development co...",
+        "lo_auth_name": "Meath Co. Co."
+    },
+    {
+        "link": null,
+        "app_status": null,
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": null,
+        "app_name": null,
+        "dev_add": [],
+        "dev_desc": null,
+        "lo_auth_name": null
+    },
+    {
+        "link": "/LaoisCC/AppFileRefDetails/21221/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Aubren Ltd",
+        "dev_add": [
+            "J17 National Enterprise Park",
+            "Togher",
+            "Portlaoise",
+            "Co. Laois"
+        ],
+        "dev_desc": "construct a warehouse / light industrial manufacturing factory facility with offices and an overall ...",
+        "lo_auth_name": "LAOIS CO.CO."
+    },
+    {
+        "link": "/LaoisCC/AppFileRefDetails/21222/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Enda & Anne Conroy",
+        "dev_add": [
+            "Clonbarrow",
+            "Mountrath",
+            "Co. Laois "
+        ],
+        "dev_desc": "to construct dwelling  house, domestic garage, secondary sewage treatment system with polishing filt...",
+        "lo_auth_name": "LAOIS CO.CO."
+    },
+    {
+        "link": "/TipperaryCC/AppFileRefDetails/21497/0",
+        "app_status": "INCOMPLETED APPLICATION",
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Crann Ard Developments Ltd",
+        "dev_add": [
+            "Crann Ard and Glencarra Estates",
+            "Fethard Road (R689)",
+            "Ardgeeha Upper, Clonmel",
+            "Co. Tipperary"
+        ],
+        "dev_desc": "construction of 59 no. residential units comprising 4 no. 3-bedroom single storey houses, 10 no. 3-b...",
+        "lo_auth_name": "Tipperary County Council"
+    },
+    {
+        "link": "/TipperaryCC/AppFileRefDetails/21498/0",
+        "app_status": "INCOMPLETED APPLICATION",
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Bridget Ferris",
+        "dev_add": [
+            "24 Galtee View",
+            "Bansha",
+            "Co. Tipperary",
+            " "
+        ],
+        "dev_desc": "demolition of existing storage shed to rear and construct a new single storey extension to existing ...",
+        "lo_auth_name": "Tipperary County Council"
+    },
+    {
+        "link": null,
+        "app_status": null,
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": null,
+        "app_name": null,
+        "dev_add": [],
+        "dev_desc": null,
+        "lo_auth_name": null
+    },
+    {
+        "link": "/LongfordCC/AppFileRefDetails/21104/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": "CONDITIONAL",
+        "received_date": "14/04/2021",
+        "app_name": "Panelto Foods",
+        "dev_add": [
+            "Longford Business & Technology Park",
+            "Ballinalee Road",
+            "Templemichael Glebe",
+            "Longford"
+        ],
+        "dev_desc": "revised single storey modular office building from previously granted under planning ref 20/77 linke...",
+        "lo_auth_name": "LONGFORD CO.CO."
+    },
+    {
+        "link": "/MonaghanCC/AppFileRefDetails/21194/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "PJ McKenna",
+        "dev_add": [
+            "Garrybane",
+            "Latton",
+            "Castleblayney",
+            "Co. Monaghan"
+        ],
+        "dev_desc": "Permission to complete bungalow, insert filter unit & percolation area and exit onto public road. ...",
+        "lo_auth_name": "Monaghan Co.Co."
+    },
+    {
+        "link": "/MonaghanCC/AppFileRefDetails/21195/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Shane & Maureen O'Neill",
+        "dev_add": [
+            "Derrygorry",
+            "Killybrone",
+            "Co. Monaghan",
+            " "
+        ],
+        "dev_desc": "Erect single storey dwellinghouse with an attached domestic garage, proprietary waste water treatmen...",
+        "lo_auth_name": "Monaghan Co.Co."
+    },
+    {
+        "link": "/MonaghanCC/AppFileRefDetails/21196/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Owen Coyle",
+        "dev_add": [
+            "Drumcanon",
+            "Latton",
+            "Castleblayney",
+            "Co. Monaghan"
+        ],
+        "dev_desc": "Permission to erect a bungalow, insert filter unit and percolation area and exit onto public road...",
+        "lo_auth_name": "Monaghan Co.Co."
+    },
+    {
+        "link": "/MonaghanCC/AppFileRefDetails/21197/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Eilish Lynn",
+        "dev_add": [
+            "Mullaghmore West & Quiglough",
+            "Ballinode",
+            "Co. Monaghan"
+        ],
+        "dev_desc": "permission to erect detached two storey dwelling with single storey elements, detached domestic gara...",
+        "lo_auth_name": "Monaghan Co.Co."
+    },
+    {
+        "link": "/RoscommonCC/AppFileRefDetails/21186/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Siobhan Creighton",
+        "dev_add": [
+            "Lisdaly",
+            "Croghan",
+            "Co Roscommon",
+            " "
+        ],
+        "dev_desc": "for development which will consist of the relocation of the wastewater treatment system and revision...",
+        "lo_auth_name": "Roscommon Co.Co."
+    },
+    {
+        "link": "/RoscommonCC/AppFileRefDetails/21187/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Connor Beirne",
+        "dev_add": [
+            "Grange Townland",
+            "Strokestown",
+            "Co Roscommon",
+            " "
+        ],
+        "dev_desc": "to construct 2 no. agricultural sheds together with all associated site works at ...",
+        "lo_auth_name": "Roscommon Co.Co."
+    },
+    {
+        "link": "/RoscommonCC/AppFileRefDetails/21188/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Hubert Maxwell",
+        "dev_add": [
+            "Gortnagoyne Townland",
+            "Ballinagare",
+            "Co Roscommon",
+            " "
+        ],
+        "dev_desc": "to construct new straw bedded shed for animal housing with associated underground soiled water stora...",
+        "lo_auth_name": "Roscommon Co.Co."
+    },
+    {
+        "link": "/RoscommonCC/AppFileRefDetails/21189/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Kieran & Caroline Mills Greene",
+        "dev_add": [
+            "Muckanagh",
+            "Strokestown",
+            "Co Roscommon",
+            " "
+        ],
+        "dev_desc": "for; (A) Permission to revise the site boundary, from that granted under PD/99/147, PD/01/534 and PD...",
+        "lo_auth_name": "Roscommon Co.Co."
+    },
+    {
+        "link": "/RoscommonCC/AppFileRefDetails/21190/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Strokestown Pharmacy Ltd. t/a McDonnells Pharmacy,",
+        "dev_add": [
+            "Bridge Street",
+            "Strokestown",
+            "Co Roscommon",
+            " "
+        ],
+        "dev_desc": "to demolish existing stores on site, refurbish & extend existing pharmacy to rear at ...",
+        "lo_auth_name": "Roscommon Co.Co."
+    },
+    {
+        "link": "/RoscommonCC/AppFileRefDetails/21191/0",
+        "app_status": "INCOMPLETED APPLICATION",
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Niamh Brennan & Eamonn Finnegan",
+        "dev_add": [
+            "Coolagarry",
+            "Curraghboy",
+            "Co Roscommon",
+            " "
+        ],
+        "dev_desc": "for erection of dwelling house and domestic garage, with sewerage treatment plant and percolation ar...",
+        "lo_auth_name": "Roscommon Co.Co."
+    },
+    {
+        "link": "/MeathCC/AppFileRefDetails/21685/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Aoife  Traynor",
+        "dev_add": [
+            "Cormeen",
+            "Moynalty",
+            "Kells, Co. Meath "
+        ],
+        "dev_desc": "planning permission sought to construct a two storey detached dwelling, detached domestic garage, ne...",
+        "lo_auth_name": "Meath Co. Co."
+    },
+    {
+        "link": "/MeathCC/AppFileRefDetails/21686/0",
+        "app_status": "INCOMPLETED APPLICATION",
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "George  Snee",
+        "dev_add": [
+            "Waynestown ",
+            "Dunboyne ",
+            "Co. Meath"
+        ],
+        "dev_desc": "permission to construct a single storey dwelling, new wastewater treatment system and percolation ar...",
+        "lo_auth_name": "Meath Co. Co."
+    },
+    {
+        "link": "/MeathCC/AppFileRefDetails/21687/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Justin  Barron",
+        "dev_add": [
+            "The Mayne Estate",
+            "The Mayne ",
+            "Clonee, Co. Meath "
+        ],
+        "dev_desc": "permission to construct a single storey dwelling house, detached garden shed, new wastewater treatme...",
+        "lo_auth_name": "Meath Co. Co."
+    },
+    {
+        "link": "/LaoisCC/AppFileRefDetails/21223/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Ray & Claire  Carroll",
+        "dev_add": [
+            "Killalooghan ",
+            "Stradbally",
+            "Co. Laois "
+        ],
+        "dev_desc": "for the renovation and extension of existing dwelling, the works consists of a single storey extensi...",
+        "lo_auth_name": "LAOIS CO.CO."
+    },
+    {
+        "link": "/LaoisCC/AppFileRefDetails/21224/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Estate of Jon  McCowen",
+        "dev_add": [
+            "Glencairn",
+            "Station Road",
+            "Portarlington",
+            "Co. laois"
+        ],
+        "dev_desc": "to retain an attic conversion with roof windows to the rear, domestic sheds to the rear of the site ...",
+        "lo_auth_name": "LAOIS CO.CO."
+    },
+    {
+        "link": "/LaoisCC/AppFileRefDetails/21225/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Shane & Padraig Walsh",
+        "dev_add": [
+            "Clonaddadoran and Ballycarnan",
+            "Portlaoise",
+            "Co. Laois"
+        ],
+        "dev_desc": "to construct a livestock housing shed and a separate feed and bedding store & new site entrance, tog...",
+        "lo_auth_name": "LAOIS CO.CO."
+    },
+    {
+        "link": "/LaoisCC/AppFileRefDetails/21226/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "DeBhal Construction Ltd",
+        "dev_add": [
+            "Doirin Alainn",
+            "Ballylynan",
+            "Co. Laois"
+        ],
+        "dev_desc": "construct a 9-unit residential development consisting of 6 No. two storey 3 bedroom houses, 2 No. tw...",
+        "lo_auth_name": "LAOIS CO.CO."
+    },
+    {
+        "link": "/LaoisCC/AppFileRefDetails/21227/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Tom Ryan",
+        "dev_add": [
+            "Rossdarragh",
+            "Rathdowney",
+            "Co. Laois"
+        ],
+        "dev_desc": "(A)construct a new beef cattle shed to include straw lie back, slatted tank, feed passage and all as...",
+        "lo_auth_name": "LAOIS CO.CO."
+    },
+    {
+        "link": "/LaoisCC/AppFileRefDetails/21228/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "10/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "16/04/2021",
+        "app_name": "Amy Mooney",
+        "dev_add": [
+            "Glenmalyre",
+            "Demesne",
+            "Ballybrittas ",
+            "Co. Laois "
+        ],
+        "dev_desc": "permission sought for a storey & half type dwelling & domestic garage with effluent treatment system...",
+        "lo_auth_name": "LAOIS CO.CO."
+    },
+    {
+        "link": "/TipperaryCC/AppFileRefDetails/21499/0",
+        "app_status": "INCOMPLETED APPLICATION",
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Michael & Helen Kelly",
+        "dev_add": [
+            "Shannonvale",
+            "Dromineer",
+            "Nenagh",
+            "Co Tipperary"
+        ],
+        "dev_desc": "replacement of the existing flat/lean-to roofs of the garage and fuel store with a pitch roof to bot...",
+        "lo_auth_name": "Tipperary County Council"
+    },
+    {
+        "link": "/TipperaryCC/AppFileRefDetails/21500/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Donal Barrett",
+        "dev_add": [
+            "Outeragh (otherwise Outrath)",
+            "Cahir",
+            "Co. Tipperary"
+        ],
+        "dev_desc": "a dwelling, garage, effluent treatment system and entrance and all associated site works, in lieu of...",
+        "lo_auth_name": "Tipperary County Council"
+    },
+    {
+        "link": "/TipperaryCC/AppFileRefDetails/21501/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Mary Anne Barry",
+        "dev_add": [
+            "Ballymorris",
+            "Bansha",
+            "Co. Tipperary",
+            " "
+        ],
+        "dev_desc": "dwelling, garage, effluent treatment system, entrance and all associated site works...",
+        "lo_auth_name": "Tipperary County Council"
+    },
+    {
+        "link": "/LongfordCC/AppFileRefDetails/21105/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Katherine Stuart",
+        "dev_add": [
+            "Keel",
+            "Moydow",
+            "Co. Longford."
+        ],
+        "dev_desc": "for construction of ground floor bay window extension and other minor alterations to front elevation...",
+        "lo_auth_name": "LONGFORD CO.CO."
+    },
+    {
+        "link": "/LongfordCC/AppFileRefDetails/21106/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Paul Smyth",
+        "dev_add": [
+            "Castlenugent",
+            "Granard",
+            "Co Longford"
+        ],
+        "dev_desc": "for proposed two storey dwelling, detached garage, formation of new entrance, wastewater treatment s...",
+        "lo_auth_name": "LONGFORD CO.CO."
+    },
+    {
+        "link": "/LongfordCC/AppFileRefDetails/21107/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Michael Kellaher",
+        "dev_add": [
+            "IDA Industrial Estate",
+            "Lisnamuck",
+            "Longford",
+            " "
+        ],
+        "dev_desc": "proposed construction of light industrial unit & food production faciality with ancillary office spa...",
+        "lo_auth_name": "LONGFORD CO.CO."
+    },
+    {
+        "link": "/LongfordCC/AppFileRefDetails/21108/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Joe Sheahan",
+        "dev_add": [
+            "Killashee Street & Bog Lane",
+            "Townparks",
+            "Longford",
+            "N39 K851"
+        ],
+        "dev_desc": "changes to previously granted permission under PL20/117 to now include amendments to all elevations ...",
+        "lo_auth_name": "LONGFORD CO.CO."
+    },
+    {
+        "link": "/LongfordCC/AppFileRefDetails/21109/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "10/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "16/04/2021",
+        "app_name": "Mark Quinn & Alessandra Scialpi",
+        "dev_add": [
+            "Aghalust",
+            "Moydow",
+            "Co Longford",
+            " "
+        ],
+        "dev_desc": "(a) demolition of existing derelict dwelling house and out-house. (b) Removal of existing portacabin...",
+        "lo_auth_name": "LONGFORD CO.CO."
+    },
+    {
+        "link": "/MonaghanCC/AppFileRefDetails/21198/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Pauric Kerr",
+        "dev_add": [
+            "Kilkit",
+            "Loughmourne",
+            "Castleblayney",
+            "Co. Monaghan"
+        ],
+        "dev_desc": "Permission to construct a slatted shed for the housing of livestock, along with other associated anc...",
+        "lo_auth_name": "Monaghan Co.Co."
+    },
+    {
+        "link": "/MonaghanCC/AppFileRefDetails/21199/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Robert Williamson",
+        "dev_add": [
+            "Drumlara",
+            "Tydavent",
+            "Co. Monaghan"
+        ],
+        "dev_desc": "Permission to construct an extension to an existing turkey rearing poultry house, together with othe...",
+        "lo_auth_name": "Monaghan Co.Co."
+    },
+    {
+        "link": "/MonaghanCC/AppFileRefDetails/21200/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Richard McChesney",
+        "dev_add": [
+            "Derryarrilly",
+            "Castleblayney",
+            "Co. Monaghan"
+        ],
+        "dev_desc": "Permission to amend the South East elevation of previously granted turkey rearing house, (house No. ...",
+        "lo_auth_name": "Monaghan Co.Co."
+    },
+    {
+        "link": "/RoscommonCC/AppFileRefDetails/21192/0",
+        "app_status": "INCOMPLETED APPLICATION",
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "16/04/2021",
+        "app_name": "Karen Grehan & Declan Murray",
+        "dev_add": [
+            "Curry",
+            "Brideswell",
+            "Athlone",
+            "Co Roscommon"
+        ],
+        "dev_desc": "to construct dwelling house, garage, waste water treatment system & associated siteworks at...",
+        "lo_auth_name": "Roscommon Co.Co."
+    },
+    {
+        "link": "/RoscommonCC/AppFileRefDetails/21193/0",
+        "app_status": "INCOMPLETED APPLICATION",
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "16/04/2021",
+        "app_name": "Shuttington Holdings ULC",
+        "dev_add": [
+            "Warren/Drum",
+            "Carrick Road",
+            "Boyle",
+            "Co Roscommon"
+        ],
+        "dev_desc": "for the change of use of existing convenience shop to include part off-licence use (gross floor area...",
+        "lo_auth_name": "Roscommon Co.Co."
+    },
+    {
+        "link": "/RoscommonCC/AppFileRefDetails/21194/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "13/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "19/04/2021",
+        "app_name": "Fiona Fahy & John Brennan",
+        "dev_add": [
+            "Glenmore",
+            "Taughmaconnell",
+            "Ballinasloe",
+            "Co. Roscommon"
+        ],
+        "dev_desc": "Permission to erect a dwelling house, domestic garage, install a secondary wastewater treatment unit...",
+        "lo_auth_name": "Roscommon Co.Co."
+    },
+    {
+        "link": null,
+        "app_status": null,
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": null,
+        "app_name": null,
+        "dev_add": [],
+        "dev_desc": null,
+        "lo_auth_name": null
+    },
+    {
+        "link": "/WicklowCC/AppFileRefDetails/21402/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "The Alfred Beit Foundation",
+        "dev_add": [
+            "Russborough House",
+            "Russborough",
+            "Blessington",
+            "Co. Wicklow"
+        ],
+        "dev_desc": "change of use of the following: existing ground floor reception / retail to change to cafe (119m2); ...",
+        "lo_auth_name": "WICKLOW CO.CO."
+    },
+    {
+        "link": "/MeathCC/AppFileRefDetails/21688/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Michael  Farley",
+        "dev_add": [
+            "Posseckstown",
+            "Enfield",
+            "Co. Meath "
+        ],
+        "dev_desc": "the construction of a new detached storey and a half type dwelling along with a detached single stor...",
+        "lo_auth_name": "Meath Co. Co."
+    },
+    {
+        "link": "/MeathCC/AppFileRefDetails/21689/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Harry Corbally",
+        "dev_add": [
+            "Keenaghan",
+            "Kilmainhamwood",
+            "Kells, Co. Meath "
+        ],
+        "dev_desc": "to construct a detached two storey dwelling, detached domestic garage, new vehicular entrance onto p...",
+        "lo_auth_name": "Meath Co. Co."
+    },
+    {
+        "link": "/MeathCC/AppFileRefDetails/21690/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Alan Byrne &  Sarah Boland",
+        "dev_add": [
+            "Tibah Cottage",
+            "Rathregan",
+            "Batterstown, Co. Meath A85 HC67"
+        ],
+        "dev_desc": "(1) the construction of a new single storey pitched roof side extension (to the new single storey fl...",
+        "lo_auth_name": "Meath Co. Co."
+    },
+    {
+        "link": "/MeathCC/AppFileRefDetails/21691/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Ciara Carroll",
+        "dev_add": [
+            "Ongenstown",
+            "Boyerstown",
+            "Navan",
+            "Co. Meath "
+        ],
+        "dev_desc": "a two storey 2 bedroom detached dwelling, waste water treatment plant and soil polishing filter, new...",
+        "lo_auth_name": "Meath Co. Co."
+    },
+    {
+        "link": "/LaoisCC/AppFileRefDetails/21229/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "10/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "16/04/2021",
+        "app_name": "Marc Phelan",
+        "dev_add": [
+            "Chapelhill",
+            "Clough",
+            "Ballacolla",
+            "Co. Laois "
+        ],
+        "dev_desc": "to construct a two storey dwelling house, domestic garage and all necessary and ancillary site works...",
+        "lo_auth_name": "LAOIS CO.CO."
+    },
+    {
+        "link": "/LaoisCC/AppFileRefDetails/21230/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "10/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "16/04/2021",
+        "app_name": "Caragh Burns - Sharma Sanged Sharma",
+        "dev_add": [
+            "Church Street",
+            "Ballinakill",
+            "Co. Laois "
+        ],
+        "dev_desc": "to sub-divide site, build tea rooms and retail outlet, install a new pedestrian entrance in  existin...",
+        "lo_auth_name": "LAOIS CO.CO."
+    },
+    {
+        "link": "/LongfordCC/AppFileRefDetails/21110/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "10/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "16/04/2021",
+        "app_name": "Nina Winter",
+        "dev_add": [
+            "18 Churchview Drive",
+            "Drumlish",
+            "Co Longford",
+            " "
+        ],
+        "dev_desc": "of an existing single storey extension that services an existing two storey semi detached two storey...",
+        "lo_auth_name": "LONGFORD CO.CO."
+    },
+    {
+        "link": "/LongfordCC/AppFileRefDetails/21111/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "10/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "16/04/2021",
+        "app_name": "Niall & Jacinta Baxter",
+        "dev_add": [
+            "Killinlastra",
+            "Ardagh",
+            "Co Longford",
+            " "
+        ],
+        "dev_desc": "proposed construction of a two storey type dwelling house, detached garage, entrance, boundary fence...",
+        "lo_auth_name": "LONGFORD CO.CO."
+    },
+    {
+        "link": "/LongfordCC/AppFileRefDetails/21112/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "10/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "16/04/2021",
+        "app_name": "Caroline Connell",
+        "dev_add": [
+            "Soran",
+            "Ballinalee",
+            "Co Longford"
+        ],
+        "dev_desc": "for the proposed construction of a bungalow type dwelling house, detached garage, entrance, boundary...",
+        "lo_auth_name": "LONGFORD CO.CO."
+    },
+    {
+        "link": "/WicklowCC/AppFileRefDetails/21403/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Patrick & Kathy  Breslin",
+        "dev_add": [
+            "12 Dromont",
+            "Kindlestown Upper ",
+            "Delgany",
+            "Co Wicklow A63 AR23"
+        ],
+        "dev_desc": "alterations and extensions to existing dwelling together with associated landscaping & site works...",
+        "lo_auth_name": "WICKLOW CO.CO."
+    },
+    {
+        "link": "/WicklowCC/AppFileRefDetails/21404/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Mary O'Brien",
+        "dev_add": [
+            "104 Main Street",
+            "Bray",
+            "Co Wicklow"
+        ],
+        "dev_desc": "extension of appropriate period of PRR 16/90 (1. new first floor extension (30msq) over existing gro...",
+        "lo_auth_name": "WICKLOW CO.CO."
+    },
+    {
+        "link": "/WicklowCC/AppFileRefDetails/21405/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": "CONDITIONAL",
+        "received_date": "14/04/2021",
+        "app_name": "Lynne Whelehan",
+        "dev_add": [
+            "No 12 Aughrim Holiday Village",
+            "Killacloran",
+            "Aughrim",
+            "Co. Wicklow "
+        ],
+        "dev_desc": "change of use (removal of condition 2 of planning register 96/4483) from holiday home to use as a pe...",
+        "lo_auth_name": "WICKLOW CO.CO."
+    },
+    {
+        "link": "/MeathCC/AppFileRefDetails/21692/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Collette Gleeson",
+        "dev_add": [
+            "Raystown",
+            "Ashbourne",
+            "Co. Meath "
+        ],
+        "dev_desc": "a detached storey and a half  type dwelling, a detached domestic garage, a wastewater disposal syste...",
+        "lo_auth_name": "Meath Co. Co."
+    },
+    {
+        "link": "/LongfordCC/AppFileRefDetails/21113/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "13/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "19/04/2021",
+        "app_name": "Sean & Yvonne Brady",
+        "dev_add": [
+            "Soran",
+            "Ballinalee",
+            "Co Longford",
+            " "
+        ],
+        "dev_desc": "to construct a two storey type dwelling house with single storey element and detached domestic garag...",
+        "lo_auth_name": "LONGFORD CO.CO."
+    },
+    {
+        "link": null,
+        "app_status": null,
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": null,
+        "app_name": null,
+        "dev_add": [],
+        "dev_desc": null,
+        "lo_auth_name": null
+    },
+    {
+        "link": "/KilkennyCC/AppFileRefDetails/21288/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Patrick Murphy",
+        "dev_add": [
+            "Banagher",
+            "Piltown",
+            "Co. Kilkenny"
+        ],
+        "dev_desc": "for a single storey extension to the rear of existing dwelling along with all associated site works...",
+        "lo_auth_name": "Kilkenny Co.Co."
+    },
+    {
+        "link": "/KilkennyCC/AppFileRefDetails/21289/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Noeleen Quinlan",
+        "dev_add": [
+            "1B Stephens Street",
+            "Kilkenny"
+        ],
+        "dev_desc": "for the erection of an extension to the rear of dwelling...",
+        "lo_auth_name": "Kilkenny Co.Co."
+    },
+    {
+        "link": null,
+        "app_status": null,
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": null,
+        "app_name": null,
+        "dev_add": [],
+        "dev_desc": null,
+        "lo_auth_name": null
+    },
+    {
+        "link": "/LouthCC/AppFileRefDetails/21403/0",
+        "app_status": "INCOMPLETED APPLICATION",
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Stefan Kovacs",
+        "dev_add": [
+            "326 Ballsgrove",
+            "Drogheda Co Louth",
+            "A92 F57F"
+        ],
+        "dev_desc": "Permission for development that will consist of front, rear and side extension including attic conve...",
+        "lo_auth_name": "Louth Co. Co."
+    },
+    {
+        "link": "/LouthCC/AppFileRefDetails/21405/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Aidan Carville",
+        "dev_add": [
+            "Darver Castle",
+            "Darver Co Louth"
+        ],
+        "dev_desc": "Retention permission for development that consist of (1) Single storey rear extension consisting of ...",
+        "lo_auth_name": "Louth Co. Co."
+    },
+    {
+        "link": "/LouthCC/AppFileRefDetails/21406/0",
+        "app_status": "INCOMPLETED APPLICATION",
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Alan & Donna Byrne",
+        "dev_add": [
+            "Sea Cliff Cockle Hill",
+            "Blackrock",
+            "Co Louth"
+        ],
+        "dev_desc": "Permission for development that will consist of partial demolition of existing extension to rear alt...",
+        "lo_auth_name": "Louth Co. Co."
+    },
+    {
+        "link": null,
+        "app_status": null,
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": null,
+        "app_name": null,
+        "dev_add": [],
+        "dev_desc": null,
+        "lo_auth_name": null
+    },
+    {
+        "link": "/LeitrimCC/AppFileRefDetails/21100/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "05/07/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "11/05/2021",
+        "app_name": "Cc & Emo Limited",
+        "dev_add": [
+            "Gibbon's Centra",
+            "Main Street",
+            "Drumshanbo",
+            "Co Leitrim"
+        ],
+        "dev_desc": "(1) demolition of single storey store & utility areas (9.1m2); (2) Construction of a single storey e...",
+        "lo_auth_name": "Leitrim County Counci"
+    },
+    {
+        "link": "/LeitrimCC/AppFileRefDetails/21101/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "06/07/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "12/05/2021",
+        "app_name": "Martin Gallagher",
+        "dev_add": [
+            "Boyannagh Td",
+            "Co Leitrim",
+            "via Ballyshannon"
+        ],
+        "dev_desc": "erect a Domestic Garage and Domestic Store interlinked by an open roofed area to the rear of his exi...",
+        "lo_auth_name": "Leitrim County Counci"
+    },
+    {
+        "link": "/WicklowCC/AppFileRefDetails/21406/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Patrick & Elizabeth Murphy",
+        "dev_add": [
+            "Holyvalley",
+            "Blessington ",
+            "Co Wicklow",
+            " "
+        ],
+        "dev_desc": "building of a dormer type dwelling with single storey annex, accessed via existing shared recessed e...",
+        "lo_auth_name": "WICKLOW CO.CO."
+    },
+    {
+        "link": "/WicklowCC/AppFileRefDetails/21407/0",
+        "app_status": "INCOMPLETED APPLICATION",
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Graham  Wynne",
+        "dev_add": [
+            "Elysian Heights",
+            "Ballinvalley Lower",
+            "Avoca",
+            "Co Wicklow"
+        ],
+        "dev_desc": "retention of dormer bedroom extension floor area 19m2 and retention of garage to rear of dwelling of...",
+        "lo_auth_name": "WICKLOW CO.CO."
+    },
+    {
+        "link": "/WicklowCC/AppFileRefDetails/21408/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "John & Ann Phelan",
+        "dev_add": [
+            "Ballymoat",
+            "Glenealy",
+            "Co. Wicklow"
+        ],
+        "dev_desc": "1. 14sqm extension to the rear of the existing garage and 2. planning permission for a new 28sqm sta...",
+        "lo_auth_name": "WICKLOW CO.CO."
+    },
+    {
+        "link": "/WicklowCC/AppFileRefDetails/21409/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Lidl Ireland GmbH",
+        "dev_add": [
+            "Blacklion Centre",
+            "Blacklion",
+            "Coolagad, Greystones",
+            "Co Wicklow"
+        ],
+        "dev_desc": "extension of appropriate period 16/177 (development to demolish and redevelop the existing licenced ...",
+        "lo_auth_name": "WICKLOW CO.CO."
+    },
+    {
+        "link": "/WicklowCC/AppFileRefDetails/21410/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Seamus Monaghan Construction Ltd.",
+        "dev_add": [
+            "Bramblehill",
+            "Lugduff",
+            "Tinahely",
+            "Co. Wicklow"
+        ],
+        "dev_desc": "proposed change of house type on Site No. 10 in already approved development  (Ref. 20/789) to compr...",
+        "lo_auth_name": "WICKLOW CO.CO."
+    },
+    {
+        "link": null,
+        "app_status": null,
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": null,
+        "app_name": null,
+        "dev_add": [],
+        "dev_desc": null,
+        "lo_auth_name": null
+    },
+    {
+        "link": "/WestmeathCC/AppFileRefDetails/21188/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Gary Connaughton",
+        "dev_add": [
+            "Killinure North",
+            "Glasson",
+            "Athlone"
+        ],
+        "dev_desc": "Demolition of existing dwelling house and decommissioning of existing septic tank and construction o...",
+        "lo_auth_name": "WESTMEATH CO. CO."
+    },
+    {
+        "link": "/WestmeathCC/AppFileRefDetails/21189/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Dillon & Katie Murtagh",
+        "dev_add": [
+            "Lynn Road",
+            "Mullingar",
+            "Co Westmeath"
+        ],
+        "dev_desc": "The development will consist of the construction of a proposed part single storey, part two storey a...",
+        "lo_auth_name": "WESTMEATH CO. CO."
+    },
+    {
+        "link": "/KilkennyCC/AppFileRefDetails/21290/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Maria and Alan O'Rourke",
+        "dev_add": [
+            "Highfield",
+            "Castlecomer Road",
+            "Kilkenny",
+            "R95 W8DD"
+        ],
+        "dev_desc": "to demolish existing single storey rear/side extensions, existing outhouses and two existing chimney...",
+        "lo_auth_name": "Kilkenny Co.Co."
+    },
+    {
+        "link": "/KilkennyCC/AppFileRefDetails/21291/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Emily O'Dwyer and Lee Delaney",
+        "dev_add": [
+            "Castlebanny",
+            "Mullinavat",
+            "Co. Kilkenny"
+        ],
+        "dev_desc": "to construct a dwelling house, sewerage treatment system and percolation area, including all necessa...",
+        "lo_auth_name": "Kilkenny Co.Co."
+    },
+    {
+        "link": "/KilkennyCC/AppFileRefDetails/21292/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Damien and Maeve Carroll",
+        "dev_add": [
+            "Monavaddra",
+            "Cuffesgrange",
+            "Co. Kilkenny"
+        ],
+        "dev_desc": "for a new single storey dwelling, waste water treatment system, new site entrance, plus all associat...",
+        "lo_auth_name": "Kilkenny Co.Co."
+    },
+    {
+        "link": "/LouthCC/AppFileRefDetails/21407/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Walshestown Clay Pigeon Club",
+        "dev_add": [
+            "Kilartey",
+            "Walshestown",
+            "Clogherhead, Co Louth"
+        ],
+        "dev_desc": "Retention permission for Clay Pigeon Shooting Facility which includes launching towers, log cabin, s...",
+        "lo_auth_name": "Louth Co. Co."
+    },
+    {
+        "link": "/LouthCC/AppFileRefDetails/21408/0",
+        "app_status": "INCOMPLETED APPLICATION",
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Peter & Brian Savage",
+        "dev_add": [
+            "Rath Lower",
+            "Riverstown Dundalk",
+            "Co Louth",
+            " "
+        ],
+        "dev_desc": "Permission for development that will consist of two dwellings with garages, waste water treatment sy...",
+        "lo_auth_name": "Louth Co. Co."
+    },
+    {
+        "link": "/LouthCC/AppFileRefDetails/21409/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Cathal & Eimear Callaghan",
+        "dev_add": [
+            "Sillogue",
+            "Monasterboice",
+            "Co Louth"
+        ],
+        "dev_desc": "Outline Permission for development that will consist of dwelling house, detached domestic garage, wa...",
+        "lo_auth_name": "Louth Co. Co."
+    },
+    {
+        "link": "/LouthCC/AppFileRefDetails/21410/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Barry Griffin",
+        "dev_add": [
+            "17 Castle Heights",
+            "Dundalk",
+            "Co Louth"
+        ],
+        "dev_desc": "Permission for development that will consist of a two-storey extension to side of existing dwelling ...",
+        "lo_auth_name": "Louth Co. Co."
+    },
+    {
+        "link": "/LeitrimCC/AppFileRefDetails/21102/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "07/07/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "13/05/2021",
+        "app_name": "Dijana Gray",
+        "dev_add": [
+            "28 River Meadow",
+            "Clooncolry Td",
+            "Dromod",
+            "Co Leitrim"
+        ],
+        "dev_desc": "retain ground floor window in gable wall of existing dwelling together with alterations to ground fl...",
+        "lo_auth_name": "Leitrim County Counci"
+    },
+    {
+        "link": "/LeitrimCC/AppFileRefDetails/21103/0",
+        "app_status": "INCOMPLETED APPLICATION",
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "13/05/2021",
+        "app_name": "Wayne McKeon & Christine Breslin",
+        "dev_add": [
+            "Aghatawny",
+            "Ballinmore",
+            "Co Leitrim",
+            " "
+        ],
+        "dev_desc": "for the erection of a dwelling and the installation of a wastewater treatment system along with all ...",
+        "lo_auth_name": "Leitrim County Counci"
+    },
+    {
+        "link": "/LeitrimCC/AppFileRefDetails/21104/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "07/07/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "13/05/2021",
+        "app_name": "Zool Advantage Ltd",
+        "dev_add": [
+            "Tullylannan Td",
+            "Letrim Village",
+            "Co Leitrim"
+        ],
+        "dev_desc": "provide an off-licence sales area...",
+        "lo_auth_name": "Leitrim County Counci"
+    },
+    {
+        "link": "/LeitrimCC/AppFileRefDetails/21105/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "11/07/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "17/05/2021",
+        "app_name": "Vodafone Ireland Limited",
+        "dev_add": [
+            "Eir Exchange",
+            "Saint George's Terrace",
+            "Townspark Carrick on Shannon",
+            "Co Leitrim"
+        ],
+        "dev_desc": "will consist of the extension of an existing telecommunications lattice structure( providing new ove...",
+        "lo_auth_name": "Leitrim County Counci"
+    },
+    {
+        "link": "/LeitrimCC/AppFileRefDetails/21106/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "11/07/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "17/05/2021",
+        "app_name": "Patricia McQuillan",
+        "dev_add": [
+            "Cloontumpher Td",
+            "Bornacoola",
+            "Co Leitrim"
+        ],
+        "dev_desc": "(a) alterations to elevations and internal layout (b) construction of a storey and a half extension ...",
+        "lo_auth_name": "Leitrim County Counci"
+    },
+    {
+        "link": "/WicklowCC/AppFileRefDetails/21411/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Keldrum Ltd",
+        "dev_add": [
+            "Tinakilly ",
+            "Rathnew",
+            "Co. Wicklow"
+        ],
+        "dev_desc": "The proposed development will consist of revisions to development permitted under WCC Reg Ref 17/219...",
+        "lo_auth_name": "WICKLOW CO.CO."
+    },
+    {
+        "link": "/WestmeathCC/AppFileRefDetails/21190/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Michelle McDermott-Lyons",
+        "dev_add": [
+            "Larkill & Mooretown",
+            "Fore",
+            "Co Westmeath"
+        ],
+        "dev_desc": "permission to erect a single storey log house, log stables/tackroom, proprietary waste water treatme...",
+        "lo_auth_name": "WESTMEATH CO. CO."
+    },
+    {
+        "link": "/WestmeathCC/AppFileRefDetails/21191/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Brian Caffrey &  Elaine Plunkett",
+        "dev_add": [
+            "Windtown",
+            "Fore",
+            "Co Westmeath"
+        ],
+        "dev_desc": "permission to erect a dormer style house, domestic garage, install a package waste water treatment s...",
+        "lo_auth_name": "WESTMEATH CO. CO."
+    },
+    {
+        "link": "/KilkennyCC/AppFileRefDetails/21293/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "10/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "16/04/2021",
+        "app_name": "James and Anne Beck",
+        "dev_add": [
+            "Kilfane East",
+            "Thomastown",
+            "Co. Kilkenny"
+        ],
+        "dev_desc": "to (a) construct an adjoining garage to the side of existing dwelling (b) construct a bay window to ...",
+        "lo_auth_name": "Kilkenny Co.Co."
+    },
+    {
+        "link": "/KilkennyCC/AppFileRefDetails/21294/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "10/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "16/04/2021",
+        "app_name": "Sean and Ann Marie Ryan",
+        "dev_add": [
+            "Tikerlevan",
+            "Graignamanagh",
+            "Co. Kilkenny"
+        ],
+        "dev_desc": "to erect a 4 bedroom single storey dwelling house with sewage treatment system with partially raised...",
+        "lo_auth_name": "Kilkenny Co.Co."
+    },
+    {
+        "link": "/KilkennyCC/AppFileRefDetails/21295/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "10/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "16/04/2021",
+        "app_name": "Kevin Kirwan and Lorraine O'Grady",
+        "dev_add": [
+            "Curraghlane Upper",
+            "Skeaghvasteen",
+            "Co. Kilkenny",
+            "R95 P8N8"
+        ],
+        "dev_desc": "to construct a dwelling house, with garage, entrance, effluent treatment system, polishing filter pe...",
+        "lo_auth_name": "Kilkenny Co.Co."
+    },
+    {
+        "link": "/LouthCC/AppFileRefDetails/21411/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Knockbrack House Ltd",
+        "dev_add": [
+            "Knockbrack House",
+            "Donore Industrial Estate",
+            "Drogheda Co Louth"
+        ],
+        "dev_desc": "Permission for development that will consist of the installation of an external Air Handling Unit (A...",
+        "lo_auth_name": "Louth Co. Co."
+    },
+    {
+        "link": "/LouthCC/AppFileRefDetails/21412/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "10/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "16/04/2021",
+        "app_name": "Lorrac Developments",
+        "dev_add": [
+            "Termonfeckin Road",
+            "Newtownstalaban",
+            "Drogheda, Co Louth",
+            " "
+        ],
+        "dev_desc": "Permission for the construction of 30 no. residential units on a site of c.1,296 ha.  the 30 units c...",
+        "lo_auth_name": "Louth Co. Co."
+    },
+    {
+        "link": "/LouthCC/AppFileRefDetails/21413/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Louth & Meath Education & Training Board (LMETB)",
+        "dev_add": [
+            "Marley's Lane, Rathmullen Road ",
+            "Drogheda, Co. Louth"
+        ],
+        "dev_desc": "EXTENSION OF DURATION 17497****Permission for development to vary previously permitted development a...",
+        "lo_auth_name": "Louth Co. Co."
+    },
+    {
+        "link": "/LeitrimCC/AppFileRefDetails/21107/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "13/07/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "19/05/2021",
+        "app_name": "Eivers Lane Childcare CLG",
+        "dev_add": [
+            "Mohill Credit Union Building",
+            "Main Street Upper",
+            "Mohill",
+            "Co Leitrim"
+        ],
+        "dev_desc": "Change of Use of Existing Lower Ground Floor Office Space to Childcare Facility with External Play A...",
+        "lo_auth_name": "Leitrim County Counci"
+    },
+    {
+        "link": "/LeitrimCC/AppFileRefDetails/21108/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "13/07/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "19/05/2021",
+        "app_name": "Vodafone Ireland Limited",
+        "dev_add": [
+            "Eir Exchange",
+            "Church Lane",
+            "Manorhamilton",
+            "Co Leitrim"
+        ],
+        "dev_desc": "will consist of the removal of an existing 15 metres telecommunications support structure (overall h...",
+        "lo_auth_name": "Leitrim County Counci"
+    },
+    {
+        "link": "/LeitrimCC/AppFileRefDetails/21109/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "13/07/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "19/05/2021",
+        "app_name": "Gerard Stenson",
+        "dev_add": [
+            "Boeeshil Td",
+            "Mohill",
+            "Co Leitrim",
+            " "
+        ],
+        "dev_desc": "1. retention permission is sought for change of use from Office Block accommodation previously grant...",
+        "lo_auth_name": "Leitrim County Counci"
+    },
+    {
+        "link": "/WestmeathCC/AppFileRefDetails/21192/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Yvonne Harte Egan & Eddie Egan",
+        "dev_add": [
+            "Grange ",
+            "Rahugh",
+            "Kilbeggan",
+            "Co Westmeath"
+        ],
+        "dev_desc": "Permission for the erection of a new dormer style dwelling with connection to a new effluent treatme...",
+        "lo_auth_name": "WESTMEATH CO. CO."
+    },
+    {
+        "link": "/WestmeathCC/AppFileRefDetails/21193/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Brian Kelly",
+        "dev_add": [
+            "2 Willow Park Drive",
+            "Athlone",
+            "N37 D3C2"
+        ],
+        "dev_desc": "Demolition of an existing single-storey side extension and construction of a replacement two-storey ...",
+        "lo_auth_name": "WESTMEATH CO. CO."
+    },
+    {
+        "link": "/WestmeathCC/AppFileRefDetails/21194/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Michael & Sinead Barr",
+        "dev_add": [
+            "7 Sarsfield Square",
+            "Athlone",
+            "N37 RX90"
+        ],
+        "dev_desc": "Retention permission for a two-storey extension to the rear of our dwelling house...",
+        "lo_auth_name": "WESTMEATH CO. CO."
+    },
+    {
+        "link": "/KilkennyCC/AppFileRefDetails/21296/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "10/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "16/04/2021",
+        "app_name": "William Hennessy",
+        "dev_add": [
+            "Duninga",
+            "Goresbridge",
+            "Co. Kilkenny"
+        ],
+        "dev_desc": "of planning permission 16/38...",
+        "lo_auth_name": "Kilkenny Co.Co."
+    },
+    {
+        "link": "/KilkennyCC/AppFileRefDetails/21297/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "10/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "16/04/2021",
+        "app_name": "Brendan Walshe and Rebecca Devitor",
+        "dev_add": [
+            "Donaghmore",
+            "Ballyragget",
+            "Co. Kilkenny"
+        ],
+        "dev_desc": "for construction of a two-storey dwelling, garage, and associated treatment system along with all si...",
+        "lo_auth_name": "Kilkenny Co.Co."
+    },
+    {
+        "link": "/WestmeathCC/AppFileRefDetails/21195/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "James & Aisling Claffey",
+        "dev_add": [
+            "Killogeenaghan",
+            "Athlone",
+            "Co Westmeath",
+            "N37 WR88"
+        ],
+        "dev_desc": "To demolish two existing single-storey side extensions, construct one replacement single-storey side...",
+        "lo_auth_name": "WESTMEATH CO. CO."
+    },
+    {
+        "link": "/WestmeathCC/AppFileRefDetails/21196/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Fiona & Lorcan Dunne",
+        "dev_add": [
+            "The Arch",
+            "Coosan",
+            "Athlone",
+            "Co Westmeath"
+        ],
+        "dev_desc": "Proposed new rear extension to existing house with alterations. Proposed demolition of existing fron...",
+        "lo_auth_name": "WESTMEATH CO. CO."
+    },
+    {
+        "link": "/WestmeathCC/AppFileRefDetails/21197/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Rachel Scanlon & James O'Rourke",
+        "dev_add": [
+            "Garnafailagh",
+            "Athlone",
+            "Co Westmeath",
+            " "
+        ],
+        "dev_desc": "Construction of a five-bedroom dwelling. The application will also include a new entrance, domestic ...",
+        "lo_auth_name": "WESTMEATH CO. CO."
+    },
+    {
+        "link": null,
+        "app_status": null,
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": null,
+        "app_name": null,
+        "dev_add": [],
+        "dev_desc": null,
+        "lo_auth_name": null
+    },
+    {
+        "link": "/WaterfordCCC/AppFileRefDetails/21303/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "OnTower Ireland Limited",
+        "dev_add": [
+            "Harristown Td.,",
+            "Dunmore East ",
+            "Co Waterford ",
+            " "
+        ],
+        "dev_desc": "retention permission of an existing telecommunications support structure (previously granted under P...",
+        "lo_auth_name": "Waterford City and County Council"
+    },
+    {
+        "link": "/WaterfordCCC/AppFileRefDetails/21304/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Anita Barry",
+        "dev_add": [
+            "Woodbrook House ",
+            "Raheens ",
+            "Kilmeaden ",
+            "Co Waterford "
+        ],
+        "dev_desc": "for the indefinite retention permission of the following works to existing dwelling house comprising...",
+        "lo_auth_name": "Waterford City and County Council"
+    },
+    {
+        "link": "/WaterfordCCC/AppFileRefDetails/21305/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Marc Harty",
+        "dev_add": [
+            "Faha ",
+            "Ring",
+            "Dungarvan ",
+            "Co Waterford "
+        ],
+        "dev_desc": "for single storey dwelling house, garage/store, entrance, septic tank, percolation area and ancillar...",
+        "lo_auth_name": "Waterford City and County Council"
+    },
+    {
+        "link": "/WaterfordCCC/AppFileRefDetails/21306/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Colin and Francine Gleeson",
+        "dev_add": [
+            "No. 5 Touraneena",
+            "Ballinamult ",
+            "Co Waterford E91 FF24",
+            " "
+        ],
+        "dev_desc": "extension to dwelling on two floors to the rear and single storey porch to front and ancillary works...",
+        "lo_auth_name": "Waterford City and County Council"
+    },
+    {
+        "link": "/WaterfordCCC/AppFileRefDetails/21307/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Musgrave Operating Partners",
+        "dev_add": [
+            "Kilbarry Centre ",
+            "Junction Inner Ring Road and ",
+            "Tramore Road ",
+            "Kilbarry Waterford "
+        ],
+        "dev_desc": "to erect external signage on the North East side and on the North West side of the existing Kilbarry...",
+        "lo_auth_name": "Waterford City and County Council"
+    },
+    {
+        "link": "/WaterfordCCC/AppFileRefDetails/21308/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Musgrave Operating Partners Ireland",
+        "dev_add": [
+            "Kilbarry Centre",
+            "Junction Inner Ring Road and ",
+            "Tramore Road ",
+            "Kilbarry Co Waterford "
+        ],
+        "dev_desc": "to construct a concrete plinth in the Service Yard for external refrigeration equipment at ...",
+        "lo_auth_name": "Waterford City and County Council"
+    },
+    {
+        "link": "/WaterfordCCC/AppFileRefDetails/21309/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Thomas and Margaret Riordan",
+        "dev_add": [
+            "Ballintlea ",
+            "Lemyrbrien",
+            "Co Waterford "
+        ],
+        "dev_desc": "to construct a single storey extension with attic storage space to the side of our dwelling, to deco...",
+        "lo_auth_name": "Waterford City and County Council"
+    },
+    {
+        "link": "/WaterfordCCC/AppFileRefDetails/21310/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Eimear Heeney",
+        "dev_add": [
+            "Kilmoylan ",
+            "Kilmacthomas ",
+            "Co Waterford "
+        ],
+        "dev_desc": "to construct a garage/store and all ancillary site works at ...",
+        "lo_auth_name": "Waterford City and County Council"
+    },
+    {
+        "link": "/WaterfordCCC/AppFileRefDetails/21311/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Claire and Dinesh Lalvani",
+        "dev_add": [
+            "Namaskar ",
+            "38 Summerville Avenue ",
+            "Waterford ",
+            "X91 X8HK "
+        ],
+        "dev_desc": "to construct a part single storey, part 1.5 storey extension to the rear of our dwelling, works will...",
+        "lo_auth_name": "Waterford City and County Council"
+    },
+    {
+        "link": "/WaterfordCCC/AppFileRefDetails/21312/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "John Kirwan",
+        "dev_add": [
+            "Ballycashin ",
+            "Butlerstown ",
+            "Co Waterford ",
+            " "
+        ],
+        "dev_desc": "Extension of Duration of 16/232 - to construct two agricultural field entrances ...",
+        "lo_auth_name": "Waterford City and County Council"
+    },
+    {
+        "link": null,
+        "app_status": null,
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": null,
+        "app_name": null,
+        "dev_add": [],
+        "dev_desc": null,
+        "lo_auth_name": null
+    },
+    {
+        "link": "/GalwayCC/AppFileRefDetails/21590/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Portumna Recreational &  Amenity Trust",
+        "dev_add": [
+            "Fairyhill ",
+            " ",
+            " ",
+            " "
+        ],
+        "dev_desc": "for [a] separate internal access roadways [off existing access from Clonfert Avenue] to serve existi...",
+        "lo_auth_name": "Galway Co.Co."
+    },
+    {
+        "link": "/GalwayCC/AppFileRefDetails/21591/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "M G Walsh",
+        "dev_add": [
+            "Canrawer West",
+            " ",
+            " ",
+            " "
+        ],
+        "dev_desc": "for change of use of existing office building to dwelling house and for domestic shed with all assoc...",
+        "lo_auth_name": "Galway Co.Co."
+    },
+    {
+        "link": "/GalwayCC/AppFileRefDetails/21592/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "David Patrick Mullins",
+        "dev_add": [
+            "Toberbrackan",
+            " ",
+            " ",
+            " "
+        ],
+        "dev_desc": "to construct a dwelling house, garage and wastewater treatment system.  Gross floor space of propose...",
+        "lo_auth_name": "Galway Co.Co."
+    },
+    {
+        "link": "/GalwayCC/AppFileRefDetails/21593/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Margaret Morley",
+        "dev_add": [
+            "Ganty",
+            " ",
+            " ",
+            " "
+        ],
+        "dev_desc": "to construct a serviced dwelling house and garage.  Gross floor space of proposed works: 132.66 sqm...",
+        "lo_auth_name": "Galway Co.Co."
+    },
+    {
+        "link": "/GalwayCC/AppFileRefDetails/21594/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Jon McDonnell",
+        "dev_add": [
+            "Derrymullan",
+            " ",
+            " ",
+            " "
+        ],
+        "dev_desc": "for development consisting of alterations to the front & side elevations, construction of a single s...",
+        "lo_auth_name": "Galway Co.Co."
+    },
+    {
+        "link": "/GalwayCC/AppFileRefDetails/21595/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Breizon Ltd",
+        "dev_add": [
+            "Baile an tSl\u00e9ibhe",
+            " ",
+            " ",
+            " "
+        ],
+        "dev_desc": "of a vehicle turning area to the north-west of the site.  Gross floor space of work to be retained: ...",
+        "lo_auth_name": "Galway Co.Co."
+    },
+    {
+        "link": "/GalwayCC/AppFileRefDetails/21596/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Mary Forde",
+        "dev_add": [
+            "Castlegar",
+            " ",
+            " ",
+            " "
+        ],
+        "dev_desc": "for dwelling house, garage, wastewater treatment/percolation and all associated services.  Gross flo...",
+        "lo_auth_name": "Galway Co.Co."
+    },
+    {
+        "link": "/GalwayCC/AppFileRefDetails/21597/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "J O'Connell",
+        "dev_add": [
+            "Brierfield Burke",
+            " ",
+            " ",
+            " "
+        ],
+        "dev_desc": "the development will consist of the construction of a two storey dwelling house (c. 198 sqm), domest...",
+        "lo_auth_name": "Galway Co.Co."
+    },
+    {
+        "link": "/GalwayCC/AppFileRefDetails/21598/0",
+        "app_status": "INCOMPLETED APPLICATION",
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Board of Management Lurga National School",
+        "dev_add": [
+            "Lurga"
+        ],
+        "dev_desc": "for the construction of a surfaced multiuse games area and additional play area with play equipment....",
+        "lo_auth_name": "Galway Co.Co."
+    },
+    {
+        "link": "/GalwayCC/AppFileRefDetails/21599/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "09/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "15/04/2021",
+        "app_name": "Conor & Tina Duffy",
+        "dev_add": [
+            "Killola",
+            " ",
+            " ",
+            " "
+        ],
+        "dev_desc": "of (a) approved dwelling house, effluent treatment plant, percolation area and all ancillary site se...",
+        "lo_auth_name": "Galway Co.Co."
+    },
+    {
+        "link": null,
+        "app_status": null,
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": null,
+        "app_name": null,
+        "dev_add": [],
+        "dev_desc": null,
+        "lo_auth_name": null
+    },
+    {
+        "link": "/ClareCC/AppFileRefDetails/21335/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Keith & Olive Ranalow",
+        "dev_add": [
+            "Gortglass",
+            "Cranny",
+            "Kilrush Co Clare"
+        ],
+        "dev_desc": "to replace existing dwelling with new dwelling, proposed wastewater treatment system and all associa...",
+        "lo_auth_name": "Clare County Council"
+    },
+    {
+        "link": "/ClareCC/AppFileRefDetails/21336/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Darren Smith & Lesley McSweeney",
+        "dev_add": [
+            "Newtown & Knocknagroagh",
+            "Ballyvaughan",
+            "Co Clare"
+        ],
+        "dev_desc": "to (a) demolish existing substandard dwellinghouse (b) Construct new dwellinghouse and connect to ex...",
+        "lo_auth_name": "Clare County Council"
+    },
+    {
+        "link": "/ClareCC/AppFileRefDetails/21337/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Mairead Greene",
+        "dev_add": [
+            "Knockacaurhin",
+            "Kilnamona",
+            "Co Clare"
+        ],
+        "dev_desc": "to construct a two storey dwelling and detached garage, a treatment plant with percolation area and ...",
+        "lo_auth_name": "Clare County Council"
+    },
+    {
+        "link": "/ClareCC/AppFileRefDetails/21338/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Pat Doyle",
+        "dev_add": [
+            "Aisling Estate",
+            "Shanvogh",
+            "Ennis Co Clare",
+            " "
+        ],
+        "dev_desc": "to develop 2 portions of land at the Aisling Estate, Shanvogh, Ennis, County Clare. The extent of th...",
+        "lo_auth_name": "Clare County Council"
+    },
+    {
+        "link": "/ClareCC/AppFileRefDetails/21339/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Tom Lane",
+        "dev_add": [
+            "Quinpool North",
+            "Parteen",
+            "Co Clare"
+        ],
+        "dev_desc": "for development, the development consists of the construction of a slatted unit extension onto exist...",
+        "lo_auth_name": "Clare County Council"
+    },
+    {
+        "link": "/ClareCC/AppFileRefDetails/21340/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Declan O'Looney",
+        "dev_add": [
+            "Ballyea South",
+            "Inagh",
+            "Co Clare",
+            " "
+        ],
+        "dev_desc": "for development - the development consists of the construction of an extension to existing slatted u...",
+        "lo_auth_name": "Clare County Council"
+    },
+    {
+        "link": "/ClareCC/AppFileRefDetails/21341/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Tony Nagle",
+        "dev_add": [
+            "Clooncolman",
+            "Ballynacally",
+            "Ennis Co Clare"
+        ],
+        "dev_desc": "to construct an extension to the South-West side of existing dwelling house along with ancillary wor...",
+        "lo_auth_name": "Clare County Council"
+    },
+    {
+        "link": "/ClareCC/AppFileRefDetails/21342/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Cyril Sheehan",
+        "dev_add": [
+            "Dehomad",
+            "Lissycasey",
+            "Ennis Co Clare"
+        ],
+        "dev_desc": "to construct a new dwelling house and garage complete with a new entrance, sewage treatment system a...",
+        "lo_auth_name": "Clare County Council"
+    },
+    {
+        "link": "/ClareCC/AppFileRefDetails/21343/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Chloe Cornu & Conor Murphy",
+        "dev_add": [
+            "Lisheen",
+            "Ballynacally",
+            "Ennis Co Clare"
+        ],
+        "dev_desc": "to construct a new dwelling house and garage, complete with a new entrance and sewage treatment syst...",
+        "lo_auth_name": "Clare County Council"
+    },
+    {
+        "link": "/ClareCC/AppFileRefDetails/21344/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "08/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "14/04/2021",
+        "app_name": "Richard Vaughan",
+        "dev_add": [
+            "Carrowmore South",
+            "Kilkee",
+            "Co Clare"
+        ],
+        "dev_desc": "to construct a new dwelling house, access road, entrance, private garage and install a new wastewate...",
+        "lo_auth_name": "Clare County Council"
+    },
+    {
+        "link": null,
+        "app_status": null,
+        "due_date": null,
+        "date": null,
+        "decidsion_code": null,
+        "received_date": null,
+        "app_name": null,
+        "dev_add": [],
+        "dev_desc": null,
+        "lo_auth_name": null
+    },
+    {
+        "link": "/MayoCC/AppFileRefDetails/152270/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "21/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "27/04/2021",
+        "app_name": "LENORE MURPHY",
+        "dev_add": [
+            "MULLENMORE NORTH",
+            "CROSSMOLINA",
+            "BALLINA",
+            "CO. MAYO"
+        ],
+        "dev_desc": "EXTENSION OF DURATION TO CONSTRUCT NEW DWELLING HOUSE, GARGE, WASTE WATER TREATMENT SYSTEM AND ALL A...",
+        "lo_auth_name": "MAYO COUNTY COUNCIL"
+    },
+    {
+        "link": "/MayoCC/AppFileRefDetails/157990/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "17/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "23/04/2021",
+        "app_name": "JIM DALY",
+        "dev_add": [
+            "KNOCKALEANORE",
+            "PARTRY",
+            "CLAREMORRIS",
+            "CO. MAYO"
+        ],
+        "dev_desc": "EXTENSION OF DURATION TO CONSTRUCT DWELLING HOUSE, PROPRIETARY EFFLUENT TREATMENT UNIT, PERCOLATION ...",
+        "lo_auth_name": "MAYO COUNTY COUNCIL"
+    },
+    {
+        "link": "/MayoCC/AppFileRefDetails/162500/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "16/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "22/04/2021",
+        "app_name": "COREVIEW  LTD.",
+        "dev_add": [
+            "SRAHEENS",
+            "ACHILL SOUND",
+            " ",
+            " "
+        ],
+        "dev_desc": "EXTENSION OF DURATION TO CONSTRUCT 8 NO. 2 STOREY HOUSES IN LIEU OF PREVIOUSLY GRANTED 3 STOREY DEVE...",
+        "lo_auth_name": "MAYO COUNTY COUNCIL"
+    },
+    {
+        "link": "/MayoCC/AppFileRefDetails/162890/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "01/07/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "07/05/2021",
+        "app_name": "ANNE MULLOY",
+        "dev_add": [
+            "DOOAGH",
+            "ACHILL",
+            " ",
+            " "
+        ],
+        "dev_desc": "EXTENSION OF DURATION FOR REPLACEMENT OF SUBSTANDARD FLAT ROOFED EXTENSION TO NORTH WEST OF EXISTING...",
+        "lo_auth_name": "MAYO COUNTY COUNCIL"
+    },
+    {
+        "link": "/MayoCC/AppFileRefDetails/163220/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "28/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "04/05/2021",
+        "app_name": "CHRIS O'NEILL",
+        "dev_add": [
+            "MAYFIELD",
+            "CLAREMORRIS",
+            "CO. MAYO",
+            " "
+        ],
+        "dev_desc": "EXTENSION OF DURATION TO CONSTRUCT DWELLING HOUSE AND GARAGE TOGETHER WITH ALL ANCILLARY SITE WORKS ...",
+        "lo_auth_name": "MAYO COUNTY COUNCIL"
+    },
+    {
+        "link": "/MayoCC/AppFileRefDetails/163760/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "23/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "29/04/2021",
+        "app_name": "DES & CATRIONA BARRETT",
+        "dev_add": [
+            "KNOCKSHANBO",
+            "BELMULLET",
+            " ",
+            " "
+        ],
+        "dev_desc": "EXTENSION OF DURATION TO CONSTRUCT NEW DWELLING HOUSE WITH SEWAGE TREATMENT SYSTEM AND PERCOLATION A...",
+        "lo_auth_name": "MAYO COUNTY COUNCIL"
+    },
+    {
+        "link": "/MayoCC/AppFileRefDetails/164410/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "23/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "29/04/2021",
+        "app_name": "KEVIN GAFFNEY",
+        "dev_add": [
+            "SHANVOLAHAN",
+            "ESKERAGH",
+            "CROSSMOLINA",
+            "CO. MAYO"
+        ],
+        "dev_desc": "EXTENSION OF DURATION TO RETAIN DWELLING HOUSE, AND DOMESTIC SHED  AND UPGRADE SEPTIC TANK TO TERTIA...",
+        "lo_auth_name": "MAYO COUNTY COUNCIL"
+    },
+    {
+        "link": "/MayoCC/AppFileRefDetails/164740/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "28/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "04/05/2021",
+        "app_name": "KEVIN TONRA",
+        "dev_add": [
+            "DRUNGANAGH WEST",
+            "MANULLA",
+            "CASTLEBAR",
+            "CO. MAYO"
+        ],
+        "dev_desc": "EXTENSION OF DURATION TO CONSTRUCT DWELLING HOUSE WITH EFFLUENT TREATMENT SYSTEM AND GARAGE ON SITE ...",
+        "lo_auth_name": "MAYO COUNTY COUNCIL"
+    },
+    {
+        "link": "/MayoCC/AppFileRefDetails/165870/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "22/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "28/04/2021",
+        "app_name": "TERENCE MCGINLEY",
+        "dev_add": [
+            "FOXFORD ROAD",
+            "COMMONS ",
+            "BALLINA",
+            "CO. MAYO"
+        ],
+        "dev_desc": "EXTENSION OF DURATION FOR THE DEMOLITION OF EXISTING DWELLING AND THE CONSTRUCTION OF NEW DWELLING H...",
+        "lo_auth_name": "MAYO COUNTY COUNCIL"
+    },
+    {
+        "link": "/MayoCC/AppFileRefDetails/166100/0",
+        "app_status": "NEW APPLICATION",
+        "due_date": "15/06/2021",
+        "date": null,
+        "decidsion_code": null,
+        "received_date": "21/04/2021",
+        "app_name": "PETER MAGILL & TRUDIE MOONEY",
+        "dev_add": [
+            "BALLYGLASS",
+            "BALLINDINE",
+            "CO. MAYO",
+            " "
+        ],
+        "dev_desc": "ALTERATIONS TO EXISTING DWELLING HOUSE, CHANGE OF USE OF OUTBUILDING TO RESIDENTIAL USE, DEMOLITION ...",
+        "lo_auth_name": "MAYO COUNTY COUNCIL"
+    }
+]
