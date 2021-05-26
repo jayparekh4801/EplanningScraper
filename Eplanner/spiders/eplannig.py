@@ -28,4 +28,4 @@ class EplannigSpider(scrapy.Spider):
         
     
     def parse_pages(self, response) :
-        pass
+        print(response.body)
