@@ -50,5 +50,6 @@ class EplannigSpider(scrapy.Spider):
                 "lo_auth_name" : row.xpath('./td[10]/text()').get()
             }
         # print(next_page)
+        # both works
         # yield scrapy.Request(next_page, callback = self.parse_pages)
         yield response.follow(url=next_page, callback=self.parse_pages)
