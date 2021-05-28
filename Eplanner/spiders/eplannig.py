@@ -65,7 +65,7 @@ class EplannigSpider(scrapy.Spider):
             address = response.xpath('//tr[./th/text() = "Address :"]/following-sibling::tr/td//text()').getall()[0:3]
             phone = response.xpath('//tr[./th/text() = "Phone :"]/td/text()').get()
             fax = response.xpath('//tr[./th/text() = "Fax :"]/td/text()').get()
-            email = response.xpath('//tr[./th/text() = "e-mail :"]/td/text()').get()
+            email = response.xpath('//tr[./th/text() = "e-mail :"]/td//text()').get()
             yield {
                 "name" : name,
                 "address" : address,
