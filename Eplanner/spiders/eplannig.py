@@ -61,6 +61,19 @@ class EplannigSpider(scrapy.Spider):
     def parse_agent(self, response) :
         agent = response.xpath('//input[@title = "Show Agents Popup"]/@style').get()
         if(agent == "display: inline;  visibility: visible;") :
+            name = response.xpath('//tr[./th/text() = "Name :"]/td/text()').get()
+            address = response.xpath('//tr[./th/text() = "Address :"]/following-sibling::tr/td//text()').getall()[0:3]
+            phone = response.xpath('//tr[./th/text() = "Phone :"]/td/text()').get()
+            fax = response.xpath('//tr[./th/text() = "Fax :"]/td/text()').get()
+            email = response.xpath('//tr[./th/text() = "e-mail :"]/td/text()').get()
+            yield {
+                "name" : name,
+                "address" : address,
+                "phone" : phone,
+                "fax" : fax,
+                "email" : email
+            }
             pass
+        # //div[@id = "DivAgents"]/table//tr[./th/text() = "Address :"]/following-sibling::tr[1]
         else : 
             self.logger.info("button not present -----------------")
